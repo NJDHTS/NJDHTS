@@ -1,0 +1,11 @@
+
+{
+    "gitbook": "2.x.x",
+    "plugins": ["noembed"],["google-drive-video"]
+    "links": {
+        "sidebar": {
+            "Contact us / Support": "mailto:thomas.hillman@rutgers.edu"
+        }
+    },
+    "pluginsConfig": {}
+}
