@@ -6,7 +6,7 @@ Looking for a user-friendly way to make crash maps for your Safe Routes to Schoo
 
 Log in to the CAT
 
-
+{{ 'https://www.dropbox.com/s/j68gx279l7y7ciz/2018-02-12%2014-09-082.mp4?raw=1' | video }}
 
 ### Step 2
 
