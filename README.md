@@ -6,5 +6,5 @@ Behaviors and attitudes have a large impat on highway safety, and crashes arise 
 
 This document provides tips, how-to guides, and documentation to help you use the NJ DHTS [Crash Analysis Tool](http://njdhts.numetric.com).
 
-![](/assets/_9a19f_450x450.png)
+![](/assets/NJDHTS_200px.png)
 
