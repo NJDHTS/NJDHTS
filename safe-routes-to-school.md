@@ -8,6 +8,8 @@ Log in to the CAT
 
 ![](/assets/ezgif.com-optimize%284%29.gif)
 
+For more information check out the [Logging In ](/chapter1/logging-in.md "Logging In")help page.
+
 ### Step 2
 
 Apply filters to query relevant crashes for your travel plan. Example: Municipality \(eg. "New Brunswick"\).
@@ -27,6 +29,4 @@ Export the crash table as a .csv file
 ### Step 4
 
 Export the crash table as a .csv file
-
- 
 
