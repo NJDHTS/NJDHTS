@@ -11,9 +11,9 @@ Logging in to the Crash Analysis Tool is quick and easy:
 
 ##### Forgot your username or password?
 
-No problem! Just click the "Forgot Password" link below the large blue "Login" button. Enter your email address and click "Reset password".
+No problem! Just follow the instructions above and click the "Forgot Password" link below the large "Login" button. Then enter your email address and click "Reset password".
 
 ![](/assets/forgot_password4.png)
 
-A password reset email will be immediately sent to your email address from Numetric. Follow the instructions in the email and you'll be back analyzing crashes in the CAT in no time.
+A password reset email will be immediately sent to your email address from a sender called "Numetric". Follow the instructions in the email and you'll be back analyzing crashes in the CAT in no time.
 
