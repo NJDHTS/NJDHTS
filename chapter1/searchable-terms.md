@@ -1,32 +1,33 @@
-# Text Searchable Elements by Field
+# Filterable Attributes
 
-Below is a list of the searchable elements in the [Roads Module](https://njdhts.numetric.com/roads/crash-query#/), and in many cases [Workbooks](https://njdhts.numetric.com/workbooks#/). Included are brief descriptions of each variable, how it was collected \(if applicable\), and a comprehensive list of all variable values.
+In order to find the data you're looking for in the CAT you'll need to know what information to search for.
 
-For help on what filtering is and how to use crash filters, review the [Filtering Crashes](/chapter1/filtering-crashes.md) tutorial.
+For help on the mechanics of how to use crash filters, review the [Filtering Crashes](/chapter1/filtering-crashes.md) tutorial.
+
+### 
+
+### New Jersey Crash Records
+
+All crash records in the Crash Analysis Tool are sourced from police reports filed at the scene of reportable motor vehicle crashes in New Jersey. By statute, as of this writing, police departments across New Jersey are obligated to complete and submit to the state crash database an NJTR-1 crash report form under the following circumstances:
+
+* Any injury or at least $500 of property damage
+* Officer investigated at the crash scene
+* Crash occurred on a public or private roadway
+
+**Note that this reporting requirement excludes the following crash examples, which therefore are not captured in the database:**
+
+* Crashes where the police were not notified
+* Crashes that were self-reported after the fact \(where an officer was not called to the scene\)
+* Crashes not involving a motor vehicle \(eg. train-pedestrian, pedestrian-bike\)
+* Crashes not occurring on a roadway \(eg. off-road vehicle crashed in the woods\)
 
 #### NJTR-1 Manual
 
-Formal information and definitions for each of the crash data elements \(variables\) can be found in the NJTR-1 Crash Report Manual at: [http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf)
+Formal information and definitions for each of the crash data elements \(variables\) and their attributes \(values\) can be found in the NJTR-1 Crash Report Manual at: [http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf)
 
 [![](/assets/NJTR1_Manual_Cover_Tile.png)](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf)
 
-### Searchable Terms
-
-##### Alcohol Involved
-
-Should show crashes where at least one person involved was under the influence of alcohol at the time of the crash.  This includes drivers, bicyclists and pedestrians. Vehicle occupants other than the driver are not part of this definition. This field is identical to the Crash Characteristics field where “Alcohol” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
-
-* 1 – \(Yes\) 
-* 0 – \(No\)
-
-##### Alcohol
-
-Should show crashes where at least one person involved was under the influence of alcohol at the time of the crash.  This includes drivers, bicyclists and pedestrians. Vehicle occupants other than the driver are not part of this definition. This field is identical to the Alcohol Involved field. • Alcohol Related • Non-Alcohol Related
-
-Bicyclist Involved – Shows crashes where at least one cyclist was involved in the crash. This field is identical to the Contributing Circumstance field where “Bicyclist” is cited and derived for analysis convenience. This field is identical to the Crash Characteristics field where “Bicyclist” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
-
-* 1 – \(Yes\) 
-* 0 – \(No\)
+### 
 
 
 
