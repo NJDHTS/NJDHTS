@@ -1,4 +1,3 @@
-{% videoplayerscripts %}{% endvideoplayerscripts %}
 
 # Safe Routes to School
 
