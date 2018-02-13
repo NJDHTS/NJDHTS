@@ -8,13 +8,7 @@ Looking for a user-friendly way to make crash maps for your Safe Routes to Schoo
 
 Log in to the CAT
 
-{{ 'http://vimeo.com/255440425' | video }}
-
-{% videoplayer id="myvideo" width="640" height="480" posterExt="png" % https://www.dropbox.com/s/j68gx279l7y7ciz/2018-02-12%2014-09-082.mp4 endvideoplayer %}
-
-{% video %}https://www.dropbox.com/s/j68gx279l7y7ciz/2018-02-12%2014-09-082.mp4 {% endvideo %}
-
-test
+![](/assets/ezgif.com-optimize(4).gif)
 
 ### Step 2
 
