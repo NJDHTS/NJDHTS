@@ -1,4 +1,3 @@
-
 # Safe Routes to School
 
 Looking for a user-friendly way to make crash maps for your Safe Routes to School Travel Plans? The DHTS CAT has built-in features that make this a snap.
@@ -7,7 +6,7 @@ Looking for a user-friendly way to make crash maps for your Safe Routes to Schoo
 
 Log in to the CAT
 
-![](/assets/ezgif.com-optimize(4).gif)
+![](/assets/ezgif.com-optimize%284%29.gif)
 
 ### Step 2
 
