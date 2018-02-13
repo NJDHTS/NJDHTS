@@ -5,6 +5,6 @@
   * [Logging In](chapter1/logging-in.md)
   * [Filtering Crashes](chapter1/filtering-crashes.md)
   * [Searchable Terms](chapter1/searchable-terms.md)
-  * Exporting Data
+  * [Exporting Data](chapter1/exporting-data.md)
 * [Safe Routes to School](safe-routes-to-school.md)
 

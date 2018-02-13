@@ -1,6 +1,6 @@
-# Logging In to the CAT
+# Login to the CAT
 
-Logging in to the Crash Analysis Tool is quick and easy: 
+Logging in to the Crash Analysis Tool is quick and easy:
 
 1. Navigate your browser to [http://njdhts.numetric.com](http://njdhts.numetric.com)
 2. Click the "Log In' link on the top right of the landing page

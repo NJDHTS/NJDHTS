@@ -8,7 +8,7 @@ Log in to the CAT
 
 ![](/assets/ezgif.com-optimize%284%29.gif)
 
-For more information check out the [Logging In ](/chapter1/logging-in.md "Logging In")help page.
+For more help logging in, check out the** **[**Logging In **](/chapter1/logging-in.md "Logging In")page.
 
 ### Step 2
 
@@ -26,7 +26,9 @@ Apply any other filters you would like to limit the query. Example: Pedestrian I
 
 Export the crash table as a .csv file
 
+-Make sure only "WGSX and WGSY coordinates are selected
+
 ### Step 4
 
-Export the crash table as a .csv file
+Import the 
 
