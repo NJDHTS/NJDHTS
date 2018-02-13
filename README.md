@@ -1,3 +1,5 @@
+#  ![](/assets/NJDHTS_200px.png)
+
 # Welcome!
 
 Thank you for your interest in better understanding crash data to improve roadway safety. The New Jersey Division of Highway and Traffic Safety [Crash Analysis Tool](http://njdhts.numetric.com) is designed to help you identify crash/fatality/injury patterns relevant to your project or jurisdiction, and use this information to improve the roadway and behavioral conditions in your area.
@@ -6,5 +8,5 @@ Behaviors and attitudes have a large impat on highway safety, and crashes arise 
 
 This document provides tips, how-to guides, and documentation to help you use the NJ DHTS [Crash Analysis Tool](http://njdhts.numetric.com).
 
-![](/assets/NJDHTS_200px.png)
+
 
