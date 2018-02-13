@@ -4,7 +4,7 @@ Looking for a user-friendly way to make crash maps for your Safe Routes to Schoo
 
 ### Step 1 - Log in to the CAT
 
-Login here: [**http://njdhts.numetric.com**](http://njdhts.numetric.com)
+Main portal: [**http://njdhts.numetric.com**](http://njdhts.numetric.com)
 
 ![](/assets/ezgif.com-optimize%284%29.gif)
 
@@ -38,8 +38,6 @@ For more help on exporting data, check out the [**Exporting Data**](/chapter1/ex
 Import the data into Google My Maps
 
 ### Step 5 - Visualize in Google My Maps
-
-
 
 
 
