@@ -1,3 +1,5 @@
+{% videoplayerscripts %}{% endvideoplayerscripts %}
+
 # Safe Routes to School
 
 Looking for a user-friendly way to make crash maps for your Safe Routes to School Travel Plans? The DHTS CAT has built-in features that make this a snap.
