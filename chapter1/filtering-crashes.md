@@ -52,7 +52,7 @@ The filter bar works exactly the same way as the Interactive Charts & Graphs, an
 * Pedestrian Involved
 * New Brunswick
 
-
+![](/assets/ezgif.com-gif-maker%284%29.gif)
 
 Now you try: take out pedestrian involvement and replace it with bicycle involvement. What changed in the crash totals? Are there any differences in the severity charts between these crash types?
 
