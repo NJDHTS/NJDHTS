@@ -68,7 +68,7 @@ The following video gives an overview of route filtering using Numetric. Note th
 
 Spatial filters allow you to analyze crashes visually at an intersection or along a stretch of road. Because spatial filters are map-based, they only capture those crashes that have geocoded crash information \(currently approximately 70% of all crashes\). Below is a quick tutorial video on how to use a spatial filter. Note that currently spatial filters can only create square boxes, although abnormal polygon based selection is coming in a future Numetric release.
 
-[https://www.youtube.com/watch?v=lKSkkm2seTg](https://www.youtube.com/watch?v=lKSkkm2seTg)
+{{ 'https://www.youtube.com/watch?v=lKSkkm2seTg' | noembed }}
 
 ### Save and Share a Query
 
