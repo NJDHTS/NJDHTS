@@ -62,7 +62,7 @@ Any crash that occurred along a numbered route can be filtered based on that rou
 
 The following video gives an overview of route filtering using Numetric. Note that New Jersey routes can be searched by their number directly: for example, for Interstate 295, simply type the number 295, or for County Road 518, simply type 518. Below is an informational video introduction to route filtering.
 
-[https://www.youtube.com/watch?v=RJmS\_wV\_6pg](https://www.youtube.com/watch?v=RJmS_wV_6pg)
+{{ 'https://www.youtube.com/watch?v=RJmS\_wV\_6pg' | noembed }}
 
 ### Spatial Filter
 
