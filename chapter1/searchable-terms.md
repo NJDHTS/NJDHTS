@@ -1,8 +1,6 @@
 # Searchable Terms \(Roads\)
 
-In order to find the data you're looking for in the CAT you'll need to know what information to search for.
-
-For help on the mechanics of how to use crash filters, review the [Filtering Crashes](/chapter1/filtering-crashes.md) tutorial.
+In order to find the data you're looking for in the CAT you'll need to know how to search for it. Since the NJTR-1 crash report form has over 140 fields, some of which have over 30 standard values, we have compiled this data dictionary for your use.
 
 Below is a list of attributes that can be used to filter the crash data presented in the [Roads Module](https://njdhts.numetric.com/roads/crash-query#/) Included are brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values.
 
@@ -31,7 +29,27 @@ Shows the crashes where the driver was cited for using their cell phone at the t
 
 ##### Contributing Circumstances
 
-Will appear in an array in a single column. Each vehicle should have two contributing circumstances and will array by vehicle \(e.g. Vehicle 1, Vehicle 2, Vehicle 3, etc.\). Example: Driver Inattention \(V1\), Following too Closely \(V1\), Driver Inattention \(V2\), None \(V2\). Animals in Roadway
+Will appear in an array in a single column. Each vehicle should have two contributing circumstances and will array by vehicle \(e.g. Vehicle 1, Vehicle 2, Vehicle 3, etc.\). Example: Driver Inattention \(V1\), Following too Closely \(V1\), Driver Inattention \(V2\), None \(V2\). 
+
+| Contributing Circumstances |  |
+| :--- | :--- |
+| Animals in Roadway |  |
+| Backing Unsafely |  |
+| Brakes |  |
+| Control Device Defective or Missing |  |
+| Defective Lights |  |
+| Driver Inattention |  |
+| Failed to Obey Traffic Control Device \(Driver/Pedalcycle\) |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
+
+
+
+Animals in Roadway
 
 Backing Unsafely
 

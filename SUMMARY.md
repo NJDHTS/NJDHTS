@@ -11,5 +11,4 @@
   * [New Jersey Advanced Crash Tables](numetric-workbooks/new-jersey-advanced-crash-tables.md)
   * [NJSP Fatal Database](numetric-workbooks/njsp-fatal-database.md)
 * [New Jersey Crash Reporting](crash-records-information.md)
-* [Quick Start Guide](quick-start-guide.md)
 
