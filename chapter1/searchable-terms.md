@@ -29,7 +29,7 @@ Shows the crashes where the driver was cited for using their cell phone at the t
 
 ##### Contributing Circumstances
 
-Will appear in an array in a single column. Each vehicle should have two contributing circumstances and will array by vehicle \(e.g. Vehicle 1, Vehicle 2, Vehicle 3, etc.\). Example: Driver Inattention \(V1\), Following too Closely \(V1\), Driver Inattention \(V2\), None \(V2\). 
+Will appear in an array in a single column. Each vehicle should have two contributing circumstances and will array by vehicle \(e.g. Vehicle 1, Vehicle 2, Vehicle 3, etc.\). Example: Driver Inattention \(V1\), Following too Closely \(V1\), Driver Inattention \(V2\), None \(V2\).
 
 | Contributing Circumstances |  |
 | :--- | :--- |
@@ -44,10 +44,6 @@ Will appear in an array in a single column. Each vehicle should have two contrib
 |  |  |
 |  |  |
 |  |  |
-
-
-
-
 
 Animals in Roadway
 
@@ -125,13 +121,55 @@ Wipers
 
 Wrong Way
 
-County – County where the crash took place. ATLANTIC BERGEN BURLINGTON CAMDEN
+##### County
 
-3 \| P a g e
+County where the crash took place. 
 
-CAPE MAY CUMBERLAND ESSEX GLOUCESTER HUDSON HUNTERDON MERCER MIDDLESEX MONMOUTH MORRIS OCEAN PASSAIC SALEM SOMERSET SUSSEX UNION WARREN
+ATLANTIC 
 
-Crash Characteristics – These are pre-calculated queries that are stored in an array if relevant to the individual crash event. It is preferred to search for these factors under Crash Characteristics to be sure you are querying the database most efficiently. In each of the cases below, the element is present. Examples: Bicyclist included one or more bicyclists, Curve-related is where crash occurred on a roadway curve.Bicyclist Curve Related Head-On Live Animal Motorcycle Older Driver Pedestrian Ran Off Road Unrestrained Passenger Work Zone Young Driver
+BERGEN 
+
+BURLINGTON 
+
+CAMDEN
+
+CAPE MAY 
+
+CUMBERLAND 
+
+ESSEX 
+
+GLOUCESTER 
+
+HUDSON 
+
+HUNTERDON 
+
+MERCER 
+
+MIDDLESEX 
+
+MONMOUTH 
+
+MORRIS 
+
+OCEAN 
+
+PASSAIC 
+
+SALEM 
+
+SOMERSET 
+
+SUSSEX 
+
+UNION 
+
+WARREN
+
+**Crash Characteristics **
+
+These are pre-calculated queries that are stored in an array if relevant to the individual crash event. It is preferred to search for these factors under Crash Characteristics to be sure you are querying the database most efficiently. In each of the cases below, the element is present. Examples: Bicyclist included one or more bicyclists, Curve-related is where crash occurred on a roadway curve.Bicyclist Curve Related Head-On Live Animal Motorcycle Older Driver Pedestrian Ran Off Road Unrestrained Passenger Work Zone Young Driver
 
 Crash Date – The date the crash took place Any Crash Date. Format is 2016-04-25
 

@@ -12,8 +12,6 @@ This is the default module that loads when logged in to the CAT. Beginner users 
 
 ###### To see an example workflow using the Roads Module, check out the [Safe Routes to School](https://thomashillman.gitbooks.io/njdhts-cat/chapter1/safe-routes-to-school.md) page.
 
-###### 
-
 ### 
 
 
