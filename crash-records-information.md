@@ -1,6 +1,6 @@
 # New Jersey Crash Reporting Procedures
 
-This is all great, but what crashes are included in the databases? 
+This is all great, but what crashes are included in the databases?
 
 All crash records in the Crash Analysis Tool are sourced from police reports filed at the scene of reportable motor vehicle crashes in New Jersey. By statute, as of this writing, police departments across New Jersey are obligated to complete and submit to the State an NJTR-1 crash report form under the following circumstances:
 
@@ -23,7 +23,7 @@ Additionally, the **NJSP Fatal Crash Database** consists of the following subset
 
 ## NJTR-1 Manual
 
-Formal information and definitions for each of the crash data elements \(variables\) and their attributes \(values\) can be found in the NJTR-1 Crash Report Manual at: [http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf)
+Formal information and definitions for each of the crash data elements \(also called variables, or columns\) and their attributes \(the values for each case, captured in a row\) can be found in the NJTR-1 Crash Report Manual at: [http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf)
 
 [![](/assets/NJTR1_Manual_Cover_Tile.png)](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf)
 
