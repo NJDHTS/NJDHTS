@@ -12,7 +12,7 @@ This is the default module that loads when logged in to the CAT. Beginner users 
 >
 > Were any pedestrians involved in the **crash**?
 
-![](/assets/roads_landing_page_800x406.png)
+![](/assets/roads_landing_page_675x345.png)
 
 #### **To get started quickly with basic crash analysis, proceed to the **[**Querying Crashes**](/chapter1/filtering-crashes.md)** page.**
 
@@ -26,7 +26,7 @@ This is the default module that loads when logged in to the CAT. Beginner users 
 
 ###### 
 
-#### Extra Credit: Numetric Workbooks \(Advanced\)
+#### Extra Credit: Numetric Workbooks
 
 ###### For more advanced querying options, check out the [Numetric Workbooks \(Advanced\) ](/numetric-workbooks.md)page.
 
@@ -39,8 +39,6 @@ This is the default module that loads when logged in to the CAT. Beginner users 
 > How many fatal crashes and fatalities were there in a given year?
 >
 > Of those fatalities, how many were not wearing a seatbelt?
-
-
 
 
 
