@@ -19,25 +19,25 @@ The underlying data and design of the NJSP Fatal Crash workbooks, as well as a l
 
 ## NJSP Fatal Crashes
 
-The NJSP Fatal Vehicles workbook uses the Vehicle table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **vehicles** that were involved in fatal crashes. Some examples of questions that could be answered using the NJSP Fatal Vehicles workbook are the following:
+The NJSP Fatal Crashes workbook uses the NJSP Fatal Crashes table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **crashes** where a fatality occurred. Some examples of questions that could be answered using the NJSP Fatal Crashes workbook are the following:
 
-> How many **pick-up trucks** were involved in fatal crashes in New Jersey in 2012-2016?
+> How many fatal **crashes** occurred in New Jersey in 2012-2016?
 >
-> What types of **large vehicles** are most often involved in fatal crashes?
+> Which counties had the highest frequency of fatal **crashes**?
 >
-> How many **Box Trucks** were involved in crashes were Alcohol Use was a contributing factor?
+> How many fatal **crashes** occurred where alcohol or drug use was involved on Interstate 297?
 
-Bear in mind that the NJSP Fatal Vehicles workbook is joined to the Vehicle level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
+Bear in mind that the NJSP Fatal Crashes workbook presents data joined to crash table. As a result, counts and totals from this workbook will be structured as follows:
 
- \# of vehicles involved in crashes
+\# of crashes where a crash attribute was applicable \(eg. municipality, year, time of day, route\)
 
-\# of vehicles involved in crashes where a particular crash attribute was applicable
+\# of crashes where anyone was involved with a particular person attribute \(eg. BAC level range, age, person type\)
 
-\# of vehicles involved in crashes where a particular individual attribute was involved
+\# of crashes where any vehicle was involved with a particular vehicle attribute \(eg. vehicle type, vehicle year range\)
 
-### NJSP Fatal People Involved
+### NJSP Fatal Involved
 
-The NJSP Fatal Involved workbook uses the People Involved table as a base table. All Drivers involved in fatal crashes in New Jersey since 2006 are included, whether they survived the crash or were deceased. **For non-drivers, only those who died as a result of the crash are included** \(eg. pedestrians, bicyclists, or occupants who survived the crash are not included, but deceased pedestrians, bicyclists, and occupants are included in the database\). 
+The NJSP Fatal Involved workbook uses the People Involved table as a base table. All Drivers involved in fatal crashes in New Jersey since 2006 are included, whether they survived the crash or were deceased. **For non-drivers, only those who died as a result of the crash are included** \(eg. pedestrians, bicyclists, or occupants who survived the crash are not included, but deceased pedestrians, bicyclists, and occupants are included in the database\).
 
 All charts, graphs, tables, and totals reflect a count of **people** that were involved in fatal crashes. This count includes all drivers plus deceased pedestrians, bicyclists, and other \(non-driver\) vehicle occupants. Some examples of questions that could be answered using the NJSP Fatal Involved workbook are the following:
 
@@ -45,17 +45,15 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 >
 > What months are **bicyclists **most often killed in shore counties versus non-shore counties?
 >
-> How many **Box Trucks** were involved in crashes were Alcohol Use was a contributing factor \(for either the truck driver or another driver\)?
+> How many **drivers** aged 65 or over were involved in fatal crashes? How many of them were killed in fatal crashes? How many survived?
 
-Bear in mind that the NJSP Fatal People Involved workbook is joined to the People Involved level via the crash table. As a result, counts and totals from this workbook follow this format:
+Bear in mind that the NJSP Fatal Involved workbook is joined to the People Involved level via the crash table. As a result, counts and totals from this workbook follow this format:
 
- \# of people involved in crashes
+\# of people involved in crashes where a crash attribute was applicable \(eg. municipality, year, route\)
 
-\# of people involved in crashes where a particular crash attribute was applicable
+\# of people involved in crashes who fit a given set of person involved attributes \(eg. age, person type, BAC range\)
 
-\# of people involved in crashes where a particular person-level attribute was applicable \(eg. person type, BAC result\)
-
-\# of people involved in crashes where a particular vehicle attribute was also involved in the crash \(Warning: this count reflects any crash where that vehicle attributes were involved, not a count of people who had that particular vehicle attribute. For example, a count of pedestrians killed in crashes with a box truck, or the number of drunk drivers involved in crashes where a box truck was also involved \(NOT the number of drunk drivers of box trucks\).
+\# of people involved in crashes where some vehicle was also involved with a particlar vehicle attribute \(eg. vehicle type\) \(Warning: this count reflects all people who were involved in a crash where selected vehicle attributes were involved, not a count of people who had that particular vehicle attribute for their own vehicle. For example you could produce, a count of pedestrians killed in crashes with a box truck, or the number of drunk drivers involved in crashes where a box truck was also involved \(but NOT the number of drunk drivers who were driving box trucks\).
 
 ### NJSP Fatal Vehicles
 
@@ -69,7 +67,7 @@ The NJSP Fatal Vehicles workbook uses the Vehicle table as a base table. As a re
 
 Bear in mind that the NJSP Fatal Vehicles workbook is joined to the Vehicle level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
- \# of vehicles involved in crashes
+\# of vehicles involved in crashes
 
 \# of vehicles involved in crashes where a particular crash attribute was applicable
 
