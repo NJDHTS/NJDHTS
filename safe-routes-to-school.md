@@ -18,7 +18,7 @@ Apply filters to query relevant crashes for your travel plan. Example: Municipal
 
 For more help using filters, check out the [**Filtering Crashes**](/chapter1/filtering-crashes.md) page.
 
-## Step 3 - Export from the CAT
+## Step 3 - Export
 
 Export the crash table as a .csv file
 
@@ -47,9 +47,7 @@ For more help on exporting data, check out the [**Exporting Data**](/chapter1/ex
 5. Select your display variable \(we are using severity in this exaple\)
 6. Style your new custom crash map to your liking. \(eg. marker colors, title, etc.\)
 
-That's it! Enjoy and present your new custom SRTS crash map to your stakeholders.
+## Step 5 - Enjoy your Interactive SRTS Map!
 
-
-
-
+That's it! Enjoy presenting your new custom SRTS crash map to your stakeholders.
 
