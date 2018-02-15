@@ -18,7 +18,7 @@ Apply filters to query relevant crashes for your travel plan. Example: Municipal
 
 For more help using filters, check out the [**Filtering Crashes**](/chapter1/filtering-crashes.md) page.
 
-## Step 3 - Export
+## Step 3 - Export from the CAT
 
 Export the crash table as a .csv file
 
@@ -32,7 +32,7 @@ Export the crash table as a .csv file
 
   Make sure to include GPS cooridnates for the map:
 
-  * "Xwgslong" and "Ywgslat" columns are selected to export by default. These are your GPS coordinates for use in mapping.
+  * "Xwgslong" and "Ywgslat" columns are selected to export by default. These are your GPS coordinates for use in Google My Maps.
 
 * Click the CSV download arrow to download the .csv file of each crash indicdent \(row\) that fits your query, with the crash attributes \(columns\) you selected for analysis or map display.
 
@@ -40,9 +40,16 @@ For more help on exporting data, check out the [**Exporting Data**](/chapter1/ex
 
 ## Step 4 - Import into Google My Maps
 
-Import the data into Google My Maps
+1. Navigate your web browser to mymaps.google.com and log in with your google account \(or make one if necessary\).
+2. Create a new map.
+3. Import the CSV file containing your crash data from the CAT.
+4. Select Xwgslong and Ywgslat for the location columns.
+5. Select your display variable \(we are using severity in this exaple\)
+6. Style your new custom crash map to your liking. \(eg. marker colors, title, etc.\)
 
-## Step 5 - Visualize in Google My Maps
+That's it! Enjoy and present your new custom SRTS crash map to your stakeholders.
+
+
 
 
 
