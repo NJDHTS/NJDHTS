@@ -33,7 +33,7 @@ Bear in mind that the NJSP Fatal Crashes workbook presents data joined to crash 
 
 \# of crashes where anyone was involved with a particular person attribute \(eg. BAC level range, age, person type\)
 
-\# of crashes where any vehicle was involved with a particular vehicle attribute \(eg. vehicle type, vehicle year range\)
+\# of crashes where any vehicle was involved with a particular vehicle attribute \(eg. vehicle type\)
 
 ### NJSP Fatal Involved
 
@@ -45,15 +45,15 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 >
 > What months are **bicyclists **most often killed in shore counties versus non-shore counties?
 >
-> How many **drivers** aged 65 or over were involved in fatal crashes? How many of them were killed in fatal crashes? How many survived?
+> How many **drivers** aged 65 or over were involved in fatal crashes? How many of them were killed? How many survived?
 
-Bear in mind that the NJSP Fatal Involved workbook is joined to the People Involved level via the crash table. As a result, counts and totals from this workbook follow this format:
+Bear in mind that the NJSP Fatal Involved workbook is joined to the \(people\) Involved level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 \# of people involved in crashes where a crash attribute was applicable \(eg. municipality, year, route\)
 
 \# of people involved in crashes who fit a given set of person involved attributes \(eg. age, person type, BAC range\)
 
-\# of people involved in crashes where some vehicle was also involved with a particlar vehicle attribute \(eg. vehicle type\) \(Warning: this count reflects all people who were involved in a crash where selected vehicle attributes were involved, not a count of people who had that particular vehicle attribute for their own vehicle. For example you could produce, a count of pedestrians killed in crashes with a box truck, or the number of drunk drivers involved in crashes where a box truck was also involved \(but NOT the number of drunk drivers who were driving box trucks\).
+\# of people involved in crashes where some vehicle was also involved with a particlar vehicle attribute \(eg. vehicle type\) \(WARNING: this count reflects all people who were involved in a crash where selected vehicle attributes were involved, not a count of people who had that particular vehicle attribute for their own vehicle. For example you could produce, a count of pedestrians killed in crashes with a box truck, or the number of drunk drivers involved in crashes where a box truck was also involved \(but NOT the number of drunk drivers who were driving box trucks\).
 
 ### NJSP Fatal Vehicles
 
@@ -71,7 +71,7 @@ Bear in mind that the NJSP Fatal Vehicles workbook is joined to the Vehicle leve
 
 \# of vehicles involved in crashes where a particular crash attribute was applicable
 
-\# of vehicles involved in crashes where a particular individual attribute was involved
+\# of vehicles involved in crashes where a particular individual attribute was involved \(eg. BAC, age\) \(WARNING: this count reflects all vehicles that were involvd in a crash where a selected person involved attribute was also involved, not a count of vehicles where a person with that attribute was necessarily the driver. For example, you could produce a count of box trucks involved in fatal crashes where any driver contributed alcohol or drug involvement to the crash, but NOT a count of box trucks where the driver was drunk\).
 
 ### Filterable Attributes
 
