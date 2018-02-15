@@ -9,7 +9,7 @@ Logging in to the Crash Analysis Tool is quick and easy:
 
 ![](/assets/ezgif.com-optimize%284%29.gif)
 
-##### Forgot your username or password?
+### Forgot your username or password?
 
 No problem! Just follow the instructions above and click the "Forgot Password" link below the large "Login" button. Then enter your email address and click "Reset password".
 
