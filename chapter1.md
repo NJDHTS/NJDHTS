@@ -14,13 +14,15 @@ This is the default module that loads when logged in to the CAT. Beginner users 
 
 ![](/assets/roads_landing_page_675x345.png)
 
-#### **To get started quickly with basic crash analysis, proceed to the **[**Querying Crashes**](/chapter1/filtering-crashes.md)** page.**
+To get started quickly with basic crash analysis, proceed to the [**Querying Crashes**](/chapter1/filtering-crashes.md)** **page.
 
 ## Safe Routes to School
 
-##### To see an example workflow using the Roads Module to make a Safe Routes to School pedestrian crash map, check out the [Safe Routes to School](https://thomashillman.gitbooks.io/njdhts-cat/chapter1/safe-routes-to-school.md) page.
+In New Jersey, Transportation Management Associations \(TMAs\) produce Safe Routes to School Travel Plans for municipalities interested in improving safe access to school for their children as they walk or bike to school. We produced a step-by-step [**tutorial **](/safe-routes-to-school.md)for how to use the CAT to make a pedestrian crash history map to add to any Safe Routes to School travel plan.
 
 ###### ![](/assets/hp_srts_example2.png)
+
+To see an example workflow using the CAT to make a SRTS crash map, check out the [**Safe Routes to School**](https://thomashillman.gitbooks.io/njdhts-cat/chapter1/safe-routes-to-school.md) page.
 
 ## Numetric Workbooks \(Advanced\)
 
@@ -30,5 +32,5 @@ This is the default module that loads when logged in to the CAT. Beginner users 
 >
 > How many **occupants **in the back seat were not wearing seatbelts?
 
-Advanced querying also provides access to the New Jersey State Police Fatal Crash Database for the most accurate fatal crash statistics.
+Advanced querying provides access to source data in all [**NJ Statewide Crash Database**](/numetric-workbooks/new-jersey-advanced-crash-tables.md)** **tables and the [**New Jersey State Police Fatal Crash Database**](/numetric-workbooks/njsp-fatal-database.md) for the most accurate fatality statistics.
 

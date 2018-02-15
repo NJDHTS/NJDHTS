@@ -1,4 +1,4 @@
-# Advanced Data Tables
+# NJ Statewide Crash Database
 
 #### Driver Workbook
 
@@ -18,5 +18,5 @@ description of driver workbook, link to driver workbook, and sample analysis que
 
 ### Filterable Attributes
 
-Below is a list of attributes that can be used to filter the crash data presented in [Workbooks](https://njdhts.numetric.com/workbooks#/).Included are brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values.
+A list of attributes that can be used to filter the crash data presented in the _NJ Statewide Crash Database_ advanced Numetric Workbooks has been compiled and will be added soon to this tutorial. Included are brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values.
 

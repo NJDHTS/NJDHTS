@@ -1,4 +1,4 @@
-# New Jersey Crash Reporting Procedures
+# Appendix: New Jersey Crash Reporting FAQ
 
 This is all great, but what crashes are included in the databases?
 

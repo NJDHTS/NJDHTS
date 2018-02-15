@@ -76,11 +76,11 @@ Now that you've spent some time filtering just the crashes you want for your ana
 
 To save a query, simply click the "Save" button beside the top filter bar:
 
---Gif tutorial for saving  sdee--
+![](/assets/roads_save_query.png)
 
-Once you've saved a query, to share it, simply click the share icon![](/assets/share_icon_4.png)on the right hand side of the screen at the top \(just below your user name:
+Once you've saved a query, to share it, simply click the share icon![](/assets/share_icon_4.png)on the right hand side of the screen at the top \(just below your user name). Type in the user name of the person you want to share the query with (for example: your municipal or county commissioners, the police chief, or traffic safety officers). If they don't have a CAT user account yet, [email us](mailto: thomas.hillman@rutgers.edu) to get them acces.
 
 --Gif tutorial for sharing--
 
-Wow, that was a lot of informatino to take in. Take a break before tackling the next section.
+Wow, that was a lot of informatino to take in. Take a break before tackling the next section!
 
