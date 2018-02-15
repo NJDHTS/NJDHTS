@@ -1,4 +1,4 @@
-# Safe Routes to School Crash Maps
+# Safe Routes to School Crash Mapping
 
 Looking for a user-friendly way to make crash maps for your Safe Routes to School Travel Plans? The DHTS CAT has built-in features that make this a snap.
 
@@ -12,9 +12,9 @@ For more help logging in, check out the** **[**Logging In **](/chapter1/logging-
 
 ## Step 2 - Filter the Data
 
-Apply filters to query relevant crashes for your travel plan. Example: Municipality \(eg. "New Brunswick"\).
+Apply filters to query relevant crashes for your travel plan. Example: Municipality \(eg. "Highland Park"\).
 
---New Brunswick Crash filter gif--
+![](/assets/srts_filter_arrow.png)
 
 For more help using filters, check out the [**Filtering Crashes**](/chapter1/filtering-crashes.md) page.
 
@@ -40,14 +40,39 @@ For more help on exporting data, check out the [**Exporting Data**](/chapter1/ex
 
 ## Step 4 - Import into Google My Maps
 
-1. Navigate your web browser to mymaps.google.com and log in with your google account \(or make one if necessary\).
-2. Create a new map.
-3. Import the CSV file containing your crash data from the CAT.
-4. Select Xwgslong and Ywgslat for the location columns.
-5. Select your display variable \(we are using severity in this exaple\)
-6. Style your new custom crash map to your liking. \(eg. marker colors, title, etc.\)
+Navigate your web browser to mymaps.google.com and log in with your google account \(or make one if necessary\).
+
+##### Create a new map and Import the CSV file containing your crash data
+
+##### ![](/assets/google_map_upload.gif)
+
+##### Select Xwgslong and Ywgslat for the location columns.
+
+![](/assets/google_map_coordinates.png)
+
+##### Select your display variable \(we are using severity in this exaple\)
+
+![](/assets/google_map_categories.png)
+
+##### Style your new custom crash map to your liking.
+
+Click on each layer to customize its colors, labels, etc. Don't forget to give your map a title.
+
+![](/assets/google_map_style.gif)
+
+##### There you have it. The crash layer for your interactive SRTS map.
+
+##### ![](/assets/google_map_finished2.png)
+
+##### Don't stop there, add your own layers too!
+
+How about adding a sidewalk inventory you collect with parents? 
+
+Or, crowdsource some photos from PTA members to identify needed infrastructure improvements? Are there "cow paths" to indicate sidewalk desire lines, misaligned intersections, high speed traffic streets for traffic calming, or missing crosswalks/curb cuts in your town?
+
+It's easy to draw new points and lines on the map and upload photos. Best of all, the map is interactive and shareable.
 
 ## Step 5 - Enjoy your Interactive SRTS Map!
 
-That's it! Enjoy presenting your new custom SRTS crash map to your stakeholders.
+That's it! Present your new custom SRTS crash map to your stakeholders and work with them to identify improvements.
 
