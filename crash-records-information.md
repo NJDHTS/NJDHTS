@@ -23,15 +23,13 @@ Additionally, the **NJSP Fatal Crash Database** consists of the following subset
 * Database includes information for all Crash events and all Drivers involved
 * Only Pedestrians, Bicyclists, or other vehicle Occupants who were **killed** as a result of the crash are recorded in the fatal crash database \(those who were involved but not killed are not included\)
 
-## Further Info: NJTR-1 Manual
+## Further Guidance: NJTR-1 Crash Report Manual
 
-Formal information and definitions for every crash data element \(all of the columns or category name you see in the CAT\) and their attributes \(all of the values you see in each graph or table row\) can be found in the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf). It's a long, but comprehensive document, thait can answer any questions you many have about data definitions.
+Formal information and definitions for every crash data element \(all of the columns or category name you see in the CAT\) and their attributes \(all of the values you see for each graph component or each cell in a table in the CAT\) can be found in the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf). It's a comprehensive document that should answer almost all questions you many have about crash data definitions.
 
 [![](/assets/NJTR1_Manual_Cover_Tile.png)](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf)
 
-Click here to download the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf).
+Consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf) for formal crash data definitions.
 
-If you have any additional questions, don't hesitate to [**email**](mailto:thomas.hillman@rutgers.edu) us. We'd love to hear from you and help you solve your problem. Your feedback also helps guide feature development for the CAT and the explanations in this tutorial.
-
-
+If you have any additional questions, don't hesitate to [**email**](mailto:thomas.hillman@rutgers.edu) us. We'd love to hear from you and help you solve your challenge. Your feedback also helps guide feature development for the CAT and the guidnce contained in this tutorial. We hope you've found it helpful.
 
