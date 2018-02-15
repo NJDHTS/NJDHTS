@@ -24,15 +24,11 @@ This is the default module that loads when logged in to the CAT. Beginner users 
 
 ## Numetric Workbooks \(Advanced\)
 
-###### For more advanced querying options, check out the [Numetric Workbooks \(Advanced\) ](/numetric-workbooks.md)guide. Advanced querying allows users to answer questions about like the following:
+###### For more advanced querying options, check out the [Numetric Workbooks \(Advanced\) ](/numetric-workbooks.md)guide. Advanced querying allows users to answer questions like the following:
 
-> How many **pedetrians **in my town were under the influence of alcohol or drugs at the time of a crash?
+> How many **pedetrians **in my jurisdiction were suspected under the influence of alcohol or drugs at the time of a crash?
 >
 > How many **occupants **in the back seat were not wearing seatbelts?
 
 Advanced querying also provides access to the New Jersey State Police Fatal Crash Database for the most accurate fatal crash statistics.
-
-
-
-
 
