@@ -15,7 +15,7 @@ Once inside, select one of the three NJSP Fatal Crash Database workbooks based o
 
 The mechanics of querying and exporting data from the NJSP Fatal Vehicles database are the same as for all other CAT modules. See the [Querying Crashes ](/chapter1/filtering-crashes.md)and [Exporting Data](/chapter1/exporting-data.md) pages for further information about those features.
 
-The underlying data and design of the NJSP Fatal Crash workbooks, as well as a list of searchable terms in the NJSP Fatal Crash Database, are different from the other workbooks and the Roads module. Below are details about these aspects of using workbooks to explore the NJSP Fatal Crash Database.
+The underlying data and design of the NJSP Fatal Crash workbooks, as well as a list of searchable terms in the NJSP Fatal Crash Database, are different from the other workbooks and the Roads module. Below are details about the underlying data in the NJSP Fatal Crash Database and examples of questions and outputs from the workbooks.
 
 ## NJSP Fatal Crashes
 
