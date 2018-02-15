@@ -76,7 +76,7 @@ Now that you've spent some time filtering just the crashes you want for your ana
 
 To save a query, simply click the "Save" button beside the top filter bar:
 
---Gif tutorial for saving--
+--Gif tutorial for saving  sdcsd--
 
 Once you've saved a query, to share it, simply click the share icon![](/assets/share_icon_4.png)on the right hand side of the screen at the top \(just below your user name:
 
