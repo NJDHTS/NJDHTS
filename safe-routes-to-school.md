@@ -42,21 +42,21 @@ For more help on exporting data, check out the [**Exporting Data**](/chapter1/ex
 
 Navigate your web browser to mymaps.google.com and log in with your google account \(or make one if necessary\).
 
-##### Create a new map and Import the CSV file containing your crash data
+##### Click "Create New Map" and Import the CSV file containing your crash data
 
 ##### ![](/assets/google_map_upload.gif)
 
-##### Select Xwgslong and Ywgslat for the location columns.
+##### Select Xwgslong and Ywgslat for the location columns and click "Continue"
 
 ![](/assets/google_map_coordinates.png)
 
-##### Select your display variable \(we are using severity in this exaple\)
+##### Select your display variable \(we are using Severity in this exaple\) and click "Finish"
 
 ![](/assets/google_map_categories.png)
 
-##### Style your new custom crash map to your liking.
+##### Now you can style your new custom crash map to your liking
 
-Click on each layer to customize its colors, labels, etc. Don't forget to give your map a title.
+Click on each layer to customize its colors, labels, etc.
 
 ![](/assets/google_map_style.gif)
 
@@ -64,15 +64,15 @@ Click on each layer to customize its colors, labels, etc. Don't forget to give y
 
 ##### ![](/assets/google_map_finished2.png)
 
-##### Don't stop there, add your own layers too!
+## Step 5 - Don't stop there, add your own layers too!
 
-How about adding a sidewalk inventory you collect with parents? 
+How about adding a sidewalk inventory you collect with parents?
 
-Or, crowdsource some photos from PTA members to identify needed infrastructure improvements? Are there "cow paths" to indicate sidewalk desire lines, misaligned intersections, high speed traffic streets for traffic calming, or missing crosswalks/curb cuts in your town?
+Why not crowdsource some photos from PTA members to who know of needed infrastructure improvements? Are there "cow paths" to indicate sidewalk desire lines, misaligned intersections, high speed traffic streets for traffic calming, or missing crosswalks/curb cuts in your town?
 
-It's easy to draw new points and lines on the map and upload photos. Best of all, the map is interactive and shareable.
+You can easily add all this to your interactive Google My Map. It's easy to draw new points and lines on the map and upload photos. Best of all, the map is interactive and shareable.
 
-## Step 5 - Enjoy your Interactive SRTS Map!
+## Step 6 - Enjoy your Interactive SRTS Map!
 
 That's it! Present your new custom SRTS crash map to your stakeholders and work with them to identify improvements.
 
