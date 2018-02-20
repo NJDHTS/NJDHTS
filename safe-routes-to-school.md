@@ -8,7 +8,7 @@ Main portal: [**http://njdhts.numetric.com**](http://njdhts.numetric.com)
 
 ![](/assets/ezgif.com-optimize%284%29.gif)
 
-For more help logging in, check out the** **[**Logging In **](/chapter1/logging-in.md)page.
+#### For more help logging in, check out the** **[**Logging In **](/chapter1/logging-in.md)page.
 
 ## Step 2 - Filter the Data
 
@@ -16,7 +16,7 @@ Apply filters to query relevant crashes for your travel plan. Example: Municipal
 
 ![](/assets/srts_filter_arrow.png)
 
-For more help using filters, check out the [**Filtering Crashes**](/chapter1/filtering-crashes.md) page.
+#### For more help using filters, check out the [**Filtering Crashes**](/chapter1/filtering-crashes.md) page.
 
 ## Step 3 - Export
 
