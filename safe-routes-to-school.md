@@ -70,7 +70,7 @@ Why not crowdsource some photos of existing conditions for walking or biking to 
 
 You can easily add all this to your interactive Google My Map. It's easy to draw new points and lines on the map and upload photos. Best of all, the map is interactive and shareable.
 
-## Step 6 - Share your Interactive SRTS Map!
+## Step 6 - Share your SRTS Map!
 
-That's it! Present your new custom SRTS crash map to your stakeholders and work collaboratively with them to identify improvement projects and develop safety programs.
+That's it! Click the "Share" button to share your new custom SRTS crash map with your stakeholders and work collaboratively with them to identify SRTS infrastructure projects and develop SRTS school programs.
 
