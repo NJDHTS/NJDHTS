@@ -58,21 +58,19 @@ Navigate your web browser to mymaps.google.com and log in with your google accou
 
 Click on each layer to customize its colors, labels, etc.
 
-![](/assets/google_map_style.gif)
+![](/assets/google_map_finished2.png)
 
-##### There you have it. The crash layer for your interactive SRTS map.
+## Step 5 - Add your own layers
 
-##### ![](/assets/google_map_finished2.png)
+In addition to crash history, there is lots of useful information you could add to your SRTS interactive Google MyMap.
 
-## Step 5 - Don't stop there, add your own layers too!
+How about collecting information about missing sidewalks or curb ramps? You could add those to your map as points or lines using the map editing tools below the search bar.
 
-How about adding a sidewalk inventory you collect with parents?
-
-Why not crowdsource some photos from PTA members to who know of needed infrastructure improvements? Are there "cow paths" to indicate sidewalk desire lines, misaligned intersections, high speed traffic streets for traffic calming, or missing crosswalks/curb cuts in your town?
+Why not crowdsource some photos of existing conditions for walking or biking to school from PTA members? Are there "cow paths" to indicate sidewalk desire lines, misaligned intersections, high speed traffic streets for traffic calming, or missing crosswalks/curb cuts in your town?
 
 You can easily add all this to your interactive Google My Map. It's easy to draw new points and lines on the map and upload photos. Best of all, the map is interactive and shareable.
 
-## Step 6 - Enjoy your Interactive SRTS Map!
+## Step 6 - Share your Interactive SRTS Map!
 
-That's it! Present your new custom SRTS crash map to your stakeholders and work with them to identify improvements.
+That's it! Present your new custom SRTS crash map to your stakeholders and work collaboratively with them to identify improvement projects and develop safety programs.
 
