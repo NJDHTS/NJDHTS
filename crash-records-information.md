@@ -1,6 +1,6 @@
 # Appendix: New Jersey Crash Data FAQ
 
-Read below for some ultra-brief background on how NJ's crash data is collected and what you're analyzing when you use the CAT.
+Read below for brief introducttion to how NJ's crash data is collected and what you're analyzing when you use the CAT.
 
 ## NJ Crash Reporting Procedures
 
@@ -31,5 +31,5 @@ Formal information and definitions for every crash data element \(all of the col
 
 Consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf) for formal crash data definitions.
 
-If you have any additional questions, don't hesitate to [**email**](mailto:thomas.hillman@rutgers.edu) us. We'd love to hear from you and help you solve your challenge. Your feedback also helps guide feature development for the CAT and the guidnce contained in this tutorial. We hope you've found it helpful.
+If you have any additional questions, don't hesitate to [**email**](mailto:thomas.hillman@rutgers.edu) us. We'd be glad to hear from you and help you satisfy your crash data analysis needs. Your feedback also helps guide feature development for the CAT and the guidnce contained in this tutorial. We hope you have found it helpful.
 

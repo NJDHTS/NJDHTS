@@ -8,7 +8,7 @@ Main portal: [**http://njdhts.numetric.com**](http://njdhts.numetric.com)
 
 ![](/assets/ezgif.com-optimize%284%29.gif)
 
-#### For more help logging in, check out the** **[**Logging In **](/chapter1/logging-in.md)page.
+For more help logging in, check out the** **[**Logging In **](/chapter1/logging-in.md)page.
 
 ## Step 2 - Filter the Data
 
@@ -16,7 +16,7 @@ Apply filters to query relevant crashes for your travel plan. Example: Municipal
 
 ![](/assets/srts_filter_arrow.png)
 
-#### For more help using filters, check out the [**Filtering Crashes**](/chapter1/filtering-crashes.md) page.
+For more help using filters, check out the [**Filtering Crashes**](/chapter1/filtering-crashes.md) page.
 
 ## Step 3 - Export
 
@@ -42,7 +42,7 @@ For more help on exporting data, check out the [**Exporting Data**](/chapter1/ex
 
 Navigate your web browser to mymaps.google.com and log in with your google account \(or make one if necessary\).
 
-##### Click "Create New Map" and Import the CSV file containing your crash data
+##### Click "Create New Map" and then click "Import" to upload the CSV file containing your crash data
 
 ##### ![](/assets/google_map_upload.gif)
 

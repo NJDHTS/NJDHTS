@@ -2,13 +2,13 @@
 
 ## Roads Module Crash Querying
 
-Roads is the default module that will automatically load when you log in to the CAT. Beginner users should stick to this Roads module for quick and intuitive crash data querying and analysis. Data in this module is all aggregated at the crash level, so it can answer quesions such as the following.
+[**Roads **](/njdhts.numetric.com)is the default module that loads automatically when you log in to the CAT. Beginner users should stick to this Roads module for quick and intuitive crash data querying and analysis. Data in this module is all aggregated at the crash level, so it can answer quesions such as the following.
 
 > When and where did the **crash** occur?
 >
-> Did alcohol or drug contribute to the **crash**? .
+> Did alcohol or drug use contribute to the **crash**?
 >
-> What was the highest injury severity in the **crash**?
+> What was the highest injury severity that occurred in the **crash**?
 >
 > Were any pedestrians involved in the **crash**?
 
@@ -18,11 +18,11 @@ To get started quickly with basic crash analysis in Roads, proceed to the [**Que
 
 ## Safe Routes to School Tutorial
 
-New Jersey's Transportation Management Associations \(TMAs\) produce Safe Routes to School Travel Plans for municipalities interested in improving safe school access for their children as they walk or bike to school each day. We produced a step-by-step [**tutorial **](/safe-routes-to-school.md)for how to use the CAT to make a pedestrian crash map to add to any Safe Routes to School travel plan.
+Safe Routes to School Travel Plans help municipalities interested in improving safe school access for their children as they walk or bike to school each day. We produced a step-by-step [**Safe Routes to School Tutorial**](/safe-routes-to-school.md)** to**o guide users in how to use the CAT to make a pedestrian crash map to for their Safe Routes to School travel plan.
 
 ###### [![](/assets/hp_srts_example2.png)](/safe-routes-to-school.md)
 
-To see an example workflow using the CAT to make a SRTS crash map, check out the [**Safe Routes to School**](https://thomashillman.gitbooks.io/njdhts-cat/chapter1/safe-routes-to-school.md) page.
+To learn how to use the CAT to make a SRTS map, check out the [**Safe Routes to School**](https://thomashillman.gitbooks.io/njdhts-cat/chapter1/safe-routes-to-school.md) page.
 
 ## Numetric Workbooks - Advanced
 
@@ -32,5 +32,5 @@ To see an example workflow using the CAT to make a SRTS crash map, check out the
 >
 > How many **occupants **in the back seat were not wearing seatbelts?
 
-Advanced querying provides access to source data in all [NJ Statewide Crash Database](/numetric-workbooks/new-jersey-advanced-crash-tables.md) tables and the [New Jersey State Police Fatal Crash Database](/numetric-workbooks/njsp-fatal-database.md) for the most accurate fatality statistics.
+Advanced querying provides access to source data in all [NJ Statewide Crash Database](/numetric-workbooks/new-jersey-advanced-crash-tables.md) tables, as well as the [New Jersey State Police Fatal Crash Database](/numetric-workbooks/njsp-fatal-database.md), which provides accurate fatality statistics.
 
