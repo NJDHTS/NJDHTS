@@ -293,9 +293,9 @@ All Sequences of events \(1-4\) for each vehicle involved in the crash. This var
 
 Will appear as an array. They will cascade in order of Vehicle number. Same searchable terms as [Events](#events)
 
-##### Functional Class 
+##### Functional Class
 
-Functional class of the roadway where the crash occurred. 
+Functional class of the roadway where the crash occurred.
 
 * Rural Interstate 
 * Rural Local 
@@ -318,24 +318,24 @@ Shows the crashes where hazardous material was on board one of the vehicles invo
 * Hazmat Involved \(Yes\)
 * NOT Hazmat Involved \(No\)
 
-##### Highway Type 
+##### Highway Type
 
-Type of highway division as cited by reporting officer. 
+Type of highway division as cited by reporting officer.
 
 * Dual/Dual 
 * Divided 
 * Undivided 
 * Unknown
 
-##### Horizontal Alignment 
+##### Horizontal Alignment
 
-Horizontal alignment of the roadway as cited by reporting officer. 
+Horizontal alignment of the roadway as cited by reporting officer.
 
 * Straight 
 * Curve
-*  Unknown
+* Unknown
 
-##### Intersection 
+##### Intersection
 
 * Within Intersection Boundaries – Crashes cited as taking place inside the “box”
 * Not within Intersection Boundaries
@@ -343,13 +343,13 @@ Horizontal alignment of the roadway as cited by reporting officer.
 
 ##### Is Ramp
 
-Crashes that took place on an entrance/exit ramp. 
+Crashes that took place on an entrance/exit ramp.
 
 * Not Ramp 
 * To
 * From
 
-##### Jurisdiction 
+##### Jurisdiction
 
 * Burlington County Bridge Commission 
 * County 
@@ -364,7 +364,7 @@ Crashes that took place on an entrance/exit ramp.
 * South Jersey Transportation Authority 
 * Unknown
 
-##### Lane Count 
+##### Lane Count
 
 Number of Lanes in roadway \(e.g. 1, 2, 3\). Each individual lane in each roadway direction contributes to this count \(e.g. a two-way road with one lane in each direction would have Lane Count = 2\).
 
@@ -387,9 +387,9 @@ Nominal direction of the roadway where the crash occurred \(example: Interstate 
 * East 
 * West
 
-##### Live Animal Involved 
+##### Live Animal Involved
 
-Crashes involving Live Animals. Includes cases where animal was not struck, but caused loss of control of vehicle resulting in a crash. This field is identical to the Crash Characteristics field where “Live Animal” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 
+Crashes involving Live Animals. Includes cases where animal was not struck, but caused loss of control of vehicle resulting in a crash. This field is identical to the Crash Characteristics field where “Live Animal” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
 
 * Live Animal Involved \(Yes\)
 * NOT Live Animal Involved \(No\)
@@ -405,7 +405,7 @@ Crashes involving Live Animals. Includes cases where animal was not struck, but 
 
 ##### MPO
 
-Metropolitan Planning Organization 
+Metropolitan Planning Organization
 
 * DVRPC \(Delaware Valley Regional Planning Commission\)
 * NJTPA \(North Jersey Transportation Planning Authority\)
@@ -415,16 +415,16 @@ Metropolitan Planning Organization
 
 Municipality where the crash took place. Could differ from the Police Department field for calls taken by other departments.
 
-##### Motorcycle Involved 
+##### Motorcycle Involved
 
 Crashes involving a motorcycle. Could include multiple motorcycles. This is a count of crashes. This field is identical to the Crash Characteristics field where “Motorcycle” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
 
 * Motorcycle Involved \(Yes\)
 * NOT Motorcycle Involved \(No\)
 
-##### Older Driver Involved 
+##### Older Driver Involved
 
-At least one of the drivers involved was 65 years of age or older. This is a count of crashes. This field is identical to the Crash Characteristics field where “Older Driver” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 
+At least one of the drivers involved was 65 years of age or older. This is a count of crashes. This field is identical to the Crash Characteristics field where “Older Driver” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
 
 Older Driver Involved \(Yes\)
 
@@ -434,17 +434,17 @@ NOT Older Driver Involved \(No\)
 
 Total number of pedestrians and/or bicyclists injured in the crash as cited by officer. This is a count of individual pedestrians.
 
-##### Pedestrians Killed 
+##### Pedestrians Killed
 
 Total number of pedestrians and/or bicyclists killed in the crash as cited by officer. This is a count of individual pedestrians.
 
-##### Police Department 
+##### Police Department
 
 Police department that responded to the crash event. Can vary from the Municipality where the crash occurred if a different department responded.
 
 ##### Pre Crash Vehicle Action
 
-The action taking place for each vehicle leading up to the crash. Stored as an array corresponding to each vehicle involved in the crash \(e.g: a two-vehicle crash could have a Pre Crash Vehicle Action: Changing Lanes, Going Straight Ahead\). Array ordered by vehicle number. 
+The action taking place for each vehicle leading up to the crash. Stored as an array corresponding to each vehicle involved in the crash \(e.g: a two-vehicle crash could have a Pre Crash Vehicle Action: Changing Lanes, Going Straight Ahead\). Array ordered by vehicle number.
 
 * Backing 
 * Changing Lanes 
@@ -484,81 +484,266 @@ The action taking place for each vehicle leading up to the crash. Stored as an a
 * Walking/Jogging Against Traffic 
 * Walking/Jogging with Traffic 
 
-Pedestrian Involved – Crashes where at least one pedestrian was involved in the crash. This is a count of crashes. This field is identical to the Crash Characteristics field where “Pedestrian” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
+##### Pedestrian Involved 
 
-RAMP\_TO\_FROM\_ROUTE\_DIRECTION – Ramp direction at the location of the crash \(for crashes that occurred on highway ramps only\) as cited by reporting officer. North Bound South Bound East Bound West Bound
+Crashes where at least one pedestrian was involved in the crash. This is a count of crashes. This field is identical to the Crash Characteristics field where “Pedestrian” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 
 
-Road Character – Physical characteristics of the roadway, as cited by the reporting officer. Curve and Grade Curve and Hillcrest Curve and Level Straight and Grade Straight and Hillcrest
+* Pedestrian Involved \(Yes\)
+* NOT Pedestrian Involved \(No\)
 
-13 \| P a g e
+##### RAMP\_TO\_FROM\_ROUTE\_DIRECTION
 
-Straight and Level Unknown
+Ramp direction at the location of the crash \(for crashes that occurred on highway ramps only\) as cited by reporting officer. 
 
-Road Divided By Barrier Median Curbed Median Grass Median Other Painted Median Unknown
+* North Bound 
+* South Bound 
+* East Bound 
+* West Bound
 
-Road Surface Type Blacktop Concrete Dirt Gravel Other Steel Grid Unknown
+##### Road Character
 
-Road SystemCo. Auth. County Interstate Mun Auth Municipal Private Property State Highway State Park or Institution State/Interstate Authority US Govt Property Unknown
+Physical characteristics of the roadway, as cited by the reporting officer. 
 
-Route – State or County route number where the crash took place, as cited by reporting officer.Entered as numeric value \(i.e. 618 for Route 618\). Keep in mind local street names may have been used in place of Route number. Searching for the route number only may not return all of the crashes. \(example: Route 618 may also be Main Street and entered as Main Street, leaving Route number blank\). Searches may not return all crashes until all variations of street names and route numbers have been entered.
+* Curve and Grade 
+* Curve and Hillcrest 
+* Curve and Level 
+* Straight and Grade 
+* Straight and Hillcrest
+* Straight and Level Unknown
 
-Route Suffix – Route suffix as cited by reporting officer.1
+##### Road Divided By 
 
-14 \| P a g e
+* Barrier 
+* Median
+* Curbed Median 
+* Grass Median 
+* Other 
+* Painted Median 
+* Unknown
 
-2 3 4 5 6 A - Alternate B - Business C - Freeway EM – Mercer Alignment \(I-95 Only\) N S – Spur \(County Routes Only\) T – Truck \(Rt. 1 & 9 Only\) U – Upper \(State Route 139 Only\) W – Western Alignment \(NJ Turnpike, Rt. 9, Rt. 173\) X Z P – Pennsylvania Extension \(NJ Turnpike Only\)
+##### Road Surface Type 
 
-Rural Or Urban Rural Unknown Urban
+* Blacktop 
+* Concrete 
+* Dirt 
+* Gravel 
+* Other 
+* Steel Grid 
+* Unknown
 
-Severity – Will show the most severe injury sustained in the crash event. I.e. If one person was Killed, and 4 were moderately injured, the Severity will be marked as Fatal. PDO – Property Damage Only Fatal Incapacitating Injury Moderate Injury Pain
+##### Road System
 
-Single Vehicle – Indicates if this was a Single Vehicle Crash. This is a count of crashes. 1 – \(Yes\) 0 – \(No\)
+* County Authority
+* County 
+* Interstate 
+* Municipal Authority
+* Municipal 
+* Private Property 
+* State Highway 
+* State Park or Institution
+* State/Interstate Authority 
+* US Govt Property 
+* Unknown
 
-Speed Limit –Speed limit according to NJ Straight Line Diagrams at based on the location of the crash. May differ from Posted Speed field, which is entered by the reporting officer on the crash report form at the time of the crash. 0 10 15
+##### Route 
 
-15 \| P a g e
+State or County route number where the crash took place, as cited by reporting officer.Entered as numeric value \(i.e. 618 for Route 618\). Keep in mind local street names may have been used in place of Route number. Searching for the route number only may not return all of the crashes. \(example: Route 618 may also be Main Street and entered as Main Street, leaving Route number blank\). Searches may not return all crashes until all variations of street names and route numbers have been entered.
 
-20 25 30 35 40 45 50 55 65
+##### Route Suffix 
 
-SRI – Standard Route Identification number. 10-digit number used to identify roadways in NJ. SRI numbers can be found on the NJ Straight Line Diagrams.
+Route suffix as cited by reporting officer.
 
-Surface Condition – Condition of the roadway. Not to be confused with weather condition. \(i.e. It could be snowing, but the surface condition is “Wet”\). Dry Icy Oil Other Sand/ Mud/ Dirt Slush Snowy Unknown Water \(Standing/Moving\) Wet
+* 1
+* 2
+* 3
+* 4
+* 5
+* 6 
+* A - Alternate 
+* B - Business 
+* C - Freeway 
+* E
+* M – Mercer Alignment \(I-95 Only\) 
+* N 
+* S – Spur \(County Routes Only\) 
+* T – Truck \(Rt. 1 & 9 Only\) 
+* U – Upper \(State Route 139 Only\)
+* W – Western Alignment \(NJ Turnpike, Rt. 9, Rt. 173\) 
+* X 
+* Z 
+* P – Pennsylvania Extension \(NJ Turnpike Only\)
 
-Temp Traffic Control Zone Construction Zone Incident Zone Maintenance Zone Unknown Utility Zone
+##### Rural Or Urban 
 
-Total Incapacitated – Total persons, Motorists and Non-Motorists, that had an incapacitating injury as a result of the crash. This is a count of bodies.
+* Rural 
+* Unknown 
+* Urban
 
-Total Injured – Total persons, Motorists and Non-Motorists, that had any injury, excluding fatal injury, as a result of the crash. This is a count of bodies.
+##### Severity 
 
-Total Killed – Total persons, Motorists and Non-Motorists, that were killed as a result of the crash. This is a count of bodies.
+Will show the most severe injury sustained in the crash event. I.e. If one person was Killed, and 4 were moderately injured, the Severity will be marked as Fatal. 
 
-16 \| P a g e
+* PDO – Property Damage Only 
+* Fatal 
+* Incapacitating Injury 
+* Moderate Injury 
+* Pain
 
-Total Pedestrians Involved – Total Non-Motorists involved in the crash event. This also includes Bicyclists. This is a count of bodies.
+##### Single Vehicle 
 
-Total Vehicles Involved – Total number of vehicles involved in the crash event.
+Indicates if this was a Single Vehicle Crash. This is a count of crashes. 
 
-Traffic Controls Present Adult Crossing Guard Channelization-Painted Channelization-Physical Flagman Flashing Traffic Control Lane Markings No Control Present Other Police Officer RR Watchman/ Gates/ etc School Zone \(Signs/Controls\) Stop Sign Traffic Signal Unknown Warning Signal Yield Sign
+* Single Vehicle Involved \(Yes\) 
+* NOT Single Vehicle Involved \(No\)
 
-Unit of Measurement – Unit of measurement corresponding to the Distance to Cross Street element \(e.g. 200 Feet from the nearest cross street; 1 Mile from the nearest cross street\). Foot At – \(No distance\) Mile
+##### Speed Limit
 
-Unrestrained Passenger – Indicates if one or more of the occupants within a motor vehicle involved in the crash were not wearing a seatbelt at the time of the crash. This field is identical to the Contributing Circumstance field where “Unrestrained Passenger” is cited, and it is recommended to use the Contributing Circumstance field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
+Speed limit according to NJ Straight Line Diagrams at based on the location of the crash. May differ from Posted Speed field, which is entered by the reporting officer on the crash report form at the time of the crash. 
 
-Unsafe Speed Involved - Defined as a driver involved in the crash had either Contributing Circumstance 1 \(CC1\) or Contributing Circumstance 2 \(CC2\) cited as Unsafe Speed. This is a count of crashes. This field is identical to the Driver Contributing Factors field where “Unsafe Speed” is cited, and it is recommended to use the Driver Contributing Factors field for the most efficient searches. 1 – \(Yes\)
+* 0 
+* 10 
+* 15
+* 20 
+* 25 
+* 30 
+* 35 
+* 40 
+* 45 
+* 50 
+* 55 
+* 65
 
-17 \| P a g e
+##### SRI 
 
-0 – \(No\)
+Standard Route Identification number. 10-digit number used to identify roadways in NJ. SRI numbers can be found on the NJ Straight Line Diagrams.
 
-Vehicle Type \(reserved\) All Terrain Vehicle Bus / Large Van \(9 or more Seats\) Car/Station Wagon/Minivan Cargo Van \(10K lbs or less\) Light Truck w/Trailer Moped Motorcycle Other Other Pass Vehicle Other Truck Passenger Van \(&lt; 9 Seats\) Pedalcycle Pickup Recreation Vehicle Single Unit \(2 axle\) Single Unit \(3+ axle\) Single Unit Truck w/Trailer Sport Utility Vehicle Streetcar/Trolley Tractor Double Tractor Semi-Trailer Tractor Triple Truck Tractor \(Bobtail\) Unknown any previous w/ Trailer
+##### Surface Condition 
 
-Vertical Alignment – Roadway vertical alignment at crash location, as cited by reporting officer. Grade Hillcrest Level Unknown
+Condition of the roadway. Not to be confused with weather condition. \(i.e. It could be snowing, but the surface condition is “Wet”\). 
 
-Work\_Zone\_Related – Indicates if the crash took place within a Construction Zone, Utility Zone or Maintenance Zone. This is a count of crashes. This field is identical to the Crash Characteristics field where “Work Zone” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
+* Dry 
+* Icy 
+* Oil 
+* Other 
+* Sand/ Mud/ Dirt 
+* Slush 
+* Snowy 
+* Unknown 
+* Water \(Standing/Moving\) 
+* Wet
 
-18 \| P a g e
+##### Temp Traffic Control Zone 
 
-Young Driver Involved - At least one of the drivers involved was between the ages of 16 and 20 years of age. This is a count of crashes. This field is identical to the Crash Characteristics field where “Young Driver” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
+* Construction Zone 
+* Incident Zone 
+* Maintenance Zone 
+* Unknown 
+* Utility Zone
+
+##### Total Incapacitated 
+
+Total persons, Motorists and Non-Motorists, that had an incapacitating injury as a result of the crash, as reported by investigating officer. This is a count of bodies.
+
+##### Total Injured 
+
+Total persons, Motorists and Non-Motorists, that had any injury, excluding fatal injury, as a result of the crash, as reported by investigating officer. This is a count of bodies.
+
+##### Total Killed 
+
+Total persons, Motorists and Non-Motorists, that were killed as a result of the crash, as reported by investigating officer. This is a count of bodies.
+
+##### Total Pedestrians Involved 
+
+Total Non-Motorists involved in the crash event, as reported by investigating officer. This also includes Bicyclists. This is a count of bodies.
+
+##### Total Vehicles Involved 
+
+Total number of vehicles involved in the crash event, as reported by investigating officer.
+
+##### Traffic Controls Present 
+
+* Adult Crossing Guard 
+* Channelization-Painted 
+* Channelization-Physical 
+* Flagman 
+* Flashing Traffic Control 
+* Lane Markings 
+* No Control Present 
+* Other Police Officer 
+* RR Watchman/ Gates/ etc 
+* School Zone \(Signs/Controls\) 
+* Stop Sign 
+* Traffic Signal 
+* Unknown 
+* Warning Signal 
+* Yield Sign
+
+##### Unit of Measurement 
+
+Unit of measurement corresponding to the Distance to Cross Street element \(e.g. 200 Feet from the nearest cross street; 1 Mile from the nearest cross street\).
+
+* Foot 
+* At – \(No distance\) 
+* Mile
+
+##### Unrestrained Passenger 
+
+Indicates if one or more of the occupants within a motor vehicle involved in the crash were not wearing a seatbelt at the time of the crash. This field is identical to the Contributing Circumstance field where “Unrestrained Passenger” is cited, and it is recommended to use the Contributing Circumstance field for the most efficient searches. 
+
+* Unrestrained Passenger Involved \(Yes\)
+* NOT Unrestrained Passenger Involved \(No\)
+
+##### Unsafe Speed Involved 
+
+Defined as a driver involved in the crash had either Contributing Circumstance 1 \(CC1\) or Contributing Circumstance 2 \(CC2\) cited as Unsafe Speed. This is a count of crashes. This field is identical to the Driver Contributing Factors field where “Unsafe Speed” is cited, and it is recommended to use the Driver Contributing Factors field for the most efficient searches. 
+
+* Unsafe Speed Involved \(Yes\)
+* NOT Unsafe Speed Involved \(No\)
+
+##### Vehicle Type
+
+* All Terrain Vehicle 
+* Bus / Large Van \(9 or more Seats\) 
+* Car / Station Wagon / Minivan 
+* Cargo Van \(10K lbs or less\) 
+* Light Truck with Trailer 
+* Moped 
+* Motorcycle 
+* Other 
+* Other Pass Vehicle 
+* Other Truck 
+* Passenger Van \(&lt; 9 Seats\) 
+* Pedalcycle 
+* Pickup 
+* Recreation Vehicle 
+* Single Unit \(2 axle\) 
+* Single Unit \(3+ axle\) 
+* Single Unit Truck with Trailer 
+* Sport Utility Vehicle 
+* Streetcar / Trolley Tractor
+* Double Tractor 
+* Semi-Trailer Tractor 
+* Triple Truck Tractor \(Bobtail\) 
+* Unknown 
+* Any Small Vehicle with Trailer
+
+##### Vertical Alignment 
+
+Roadway vertical alignment at crash location, as cited by reporting officer. Grade Hillcrest Level Unknown
+
+##### Work\_Zone\_Related 
+
+Indicates if the crash took place within a Construction Zone, Utility Zone or Maintenance Zone. This is a count of crashes. This field is identical to the Crash Characteristics field where “Work Zone” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
+
+* Work Zone Related \(Yes\) 
+* NOT Work Zone Related \(No\)
+
+##### Young Driver Involved
+
+At least one of the drivers involved was between the ages of 16 and 20 years of age. This is a count of crashes. This field is identical to the Crash Characteristics field where “Young Driver” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 
+
+* Young Driver Involved \(Yes\)
+* NOT Young Driver Involved \(No\)
 
 ### 
 
