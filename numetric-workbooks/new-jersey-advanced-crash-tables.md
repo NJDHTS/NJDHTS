@@ -66,7 +66,7 @@ Bear in mind that the [**Occupants**](https://cloud.numetric.com/workbooks#/repo
 
 \# of** occupants** with a particular occupant attribute \(eg. seating position, restraint use, age, sex\)
 
-## [Vehicles Workbook](https://cloud.numetric.com/workbooks#/report2/66b8b15e-f226-42ff-bcbc-550ab1b661db)
+## [Vehicles](https://cloud.numetric.com/workbooks#/report2/66b8b15e-f226-42ff-bcbc-550ab1b661db)
 
 The [**Vehicles** ](https://cloud.numetric.com/workbooks#/report2/66b8b15e-f226-42ff-bcbc-550ab1b661db)workbook uses the New Jersey Statewide Crash Database Vehicles table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **vehicles **involved in crashes. Some examples of questions that could be answered using the [**Vehicles **](https://cloud.numetric.com/workbooks#/report2/66b8b15e-f226-42ff-bcbc-550ab1b661db)workbook are the following:
 
@@ -82,7 +82,7 @@ Bear in mind that the [**Vehicles** ](https://cloud.numetric.com/workbooks#/repo
 
 \# of** vehicles** with a particular vehicle attribute \(eg. vehicle type, vehicle make, vehicle year, special function vehicle\)
 
-### Filterable Attributes
+## Filterable Attributes
 
-A list of attributes that can be used to filter the crash data presented in the _NJ Statewide Crash Database_ advanced Numetric Workbooks has been compiled and will be added soon to this tutorial. It will include brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values. In the interim, feel free to use the clickable filters or use the [**Searchable Terms - Roads**](/chapter1/searchable-terms.md) guide as a guiding template for your filter
+A list of attributes that can be used to filter the crash data presented in the _NJ Statewide Crash Database_ advanced Numetric Workbooks has been compiled and will be added soon to this tutorial. It will include brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values. In the interim, feel free to filter by clicking on the interactive charts and graphs as described in the** **[**Querying Crashes **](/chapter1/filtering-crashes.md)tutorial, or use the [**Searchable Terms - Roads**](/chapter1/searchable-terms.md) guide as a guiding template for your filter in the top query bar.
 

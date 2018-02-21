@@ -1,8 +1,6 @@
 # Appendix: New Jersey Crash Data FAQ
 
-Ever wonder what's included or excluded in the crash database?
-
-Read below for brief overview of the underlying data that powers the CAT.
+Ever wonder what's included in the crash database? Read below for brief overview of the data collection process that powers the CAT.
 
 ## NJ Crash Reporting Procedures
 
