@@ -5,7 +5,7 @@ To access the NJSP Fatal Crash Database, enter the Numetric Workbooks module as 
 1. Hover your mouse over the Numetric logo on the top left corner of the screen
 2. Click on the Numetric logo from the dropdown menu
 
---gif showing how to get to workbooks --
+![](/assets/workbooks.gif)
 
 Once inside, select one of the three NJSP Fatal Crash Database workbooks based on your table of primary interest:
 
@@ -13,9 +13,9 @@ Once inside, select one of the three NJSP Fatal Crash Database workbooks based o
 * To count people involved in crashes \(including fatality counts\), click the NJSP Fatal People Involved workbook. 
 * To count vehicles involved, click on the NJSP Fatal Vehicles workbook. 
 
-The mechanics of querying and exporting data from the NJSP Fatal Vehicles database are the same as for all other CAT modules. See the [**Querying Crashes **](/chapter1/filtering-crashes.md)and [**Exporting Data**](/chapter1/exporting-data.md) pages for further information about those features.
+The mechanics of querying and exporting data from the NJSP Fatal Crash Database are the same as for all other CAT modules. See the [**Querying Crashes **](/chapter1/filtering-crashes.md)and [**Exporting Data**](/chapter1/exporting-data.md) pages for further information about those features.
 
-The underlying data and design of the NJSP Fatal Crash workbooks, as well as a list of searchable terms in the NJSP Fatal Crash Database, are different from the other workbooks and the Roads module. Below are details about the underlying data in the NJSP Fatal Crash Database and examples of questions and outputs from the workbooks.
+The underlying data and design of the NJSP Fata Crash Database workbooks, as well as a list of searchable terms in the NJSP Fatal Crash Database, are different from the other workbooks and the Roads module. Below are details about the underlying data in the NJSP Fatal Crash Database and examples of questions and outputs from the workbooks.
 
 ## NJSP Fatal Crashes
 
@@ -27,7 +27,7 @@ The NJSP Fatal Crashes workbook uses the NJSP Fatal Crashes table as a base tabl
 >
 > How many fatal **crashes** occurred where alcohol or drug use was involved on Interstate 297?
 
-Bear in mind that the NJSP Fatal Crashes workbook presents data joined to crash table. As a result, counts and totals from this workbook will be structured as follows:
+Bear in mind that the NJSP Fatal Crashes workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 \# of crashes where a crash attribute was applicable \(eg. municipality, year, time of day, route\)
 

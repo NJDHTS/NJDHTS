@@ -8,13 +8,13 @@ Ensure you have the data filtered to only what is relevant for your project. For
 
 ## 2. Prepare the Columns
 
-Once your data is queried, to export click on the "Table" tab \(in the top middle of the screen, under the filter bar\) and at the bottom left, select the columns of data you want available in your exported table.
+Once your data is queried, to prepare your columns of data for export. Click on the "Table" tab \(in the top middle of the screen, under the filter bar\). At the bottom left of the screen, select the "Columns" button to display which columns are active. Select the columns you want to activate or deactivate in your exported table.
 
---select table and exportable columns--
+![](/assets/columns2.gif)
 
- Some examples of commonly useful columns for data export include the following.
+Some examples of commonly activated columns for data export include the following:
 
-| Common Columns selected for Export |
+| Common Columns Selected for Export |
 | :--- |
 | Pedestrian Involved |
 | Bicyclist Involved |
@@ -23,7 +23,7 @@ Once your data is queried, to export click on the "Table" tab \(in the top middl
 | Unsafe Speed Involved |
 | Crash Location \(street name where crash occurred\) |
 | Route \(route number where the crash occurred\) |
-| GPS Coordinates |
+| GPS Coordinates \(eg. "XWGSLONG" and "YWGSLat" for GoogleMy Maps or "X" and "Y" for ArcGIS\) |
 
 ## 3. Select the GPS Coordinates
 
@@ -31,7 +31,7 @@ Make sure to include GPS cooridnates if you'll be making a map. "XWGSLong" and "
 
 ## 4. Download the CSV
 
-Click the CSV download arrow \***IMAGE OF DOWNLOAD ARROW**\* to download the .csv file of each crash indicdent \(row\) that fits your query, with the crash attributes \(columns\) you selected for excel analysis or map display.
+Click the CSV download arrow ![](/assets/csv_download_button.png) to download the .csv file of each crash indicdent \(row\) that fits your query, with the crash attributes \(columns\) you selected for excel analysis or map display.
 
---screenshot of CSV download button--
+![](/assets/csv_export2.png)
 
