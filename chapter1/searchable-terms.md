@@ -168,7 +168,7 @@ Typically the first injury or damage-producing event. Also available as a sideba
 
 #### Crash Year
 
-Also available as sidebar filter. See [**Appendix FAQ**](/crash-records-information.md) for more information about available crash dates. Format is eg. 2006
+Also available as sidebar filter. See [**Appendix FAQ**](https://thomashillman.gitbooks.io/njdhts-cat/content/crash-records-information.html) for more information about available crash dates. Format is eg. 2006
 
 #### DHTS Region
 

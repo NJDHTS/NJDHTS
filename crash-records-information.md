@@ -25,9 +25,9 @@ Additionally, the **NJSP Fatal Crash Database** consists of the following subset
 
 ## Further Guidance: NJTR-1 Crash Report Manual
 
-Formal information and definitions for every crash data element \(all of the columns or category name you see in the CAT\) and their attributes \(all of the values you see for each graph component or each cell in a table in the CAT\) can be found in the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf). It's a comprehensive document that should answer almost all questions you many have about crash data definitions.
+Formal information and definitions for every crash data element \(all of the columns or category name you see in the CAT\) and their attributes \(all of the values you see for each graph component or each cell in a table in the CAT\) can be found in the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf). It's a comprehensive document that should answer almost all questions you many have about crash data definitions.
 
-[![](/assets/NJTR1_Manual_Cover_Tile.png)](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf)
+[![](/assets/NJTR1_Manual_Cover_Tile.png)](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf)
 
 Consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf) for formal crash data definitions.
 
