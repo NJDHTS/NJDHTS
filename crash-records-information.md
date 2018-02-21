@@ -31,5 +31,11 @@ Formal information and definitions for every crash data element \(all of the col
 
 Consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf) for formal crash data definitions.
 
+## Crash Years Available
+
+The CAT currently hosts crash data from 2006 to the most recent year available \(2016 as of this writing\). Crash years are generally finalized approximately six months after the end of the year \(eg. 2017 crash year will be finalized in Summer 2018\). Data from the most recent \(not finalized\) crash year is preliminary and should be analyzed with care. Data are also available from 2003-2005. Please contact us if your analyses require use of 2003-2005 data.
+
+## Additional Questions?
+
 If you have any additional questions, don't hesitate to [**email**](mailto:thomas.hillman@rutgers.edu) us. We'd be glad to hear from you and help you satisfy your crash data analysis needs. Your feedback also helps guide feature development for the CAT and the guidnce contained in this tutorial. We hope you have found it helpful.
 

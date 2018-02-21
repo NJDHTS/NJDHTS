@@ -2,7 +2,11 @@
 
 In order to find the data you're looking for in the CAT you'll need to know how to search for it. Since the NJTR-1 crash report form has over 140 fields, some of which have over 30 standard values, we have compiled this data dictionary for your use.
 
-Below is a list of attributes that can be used to filter the crash data presented in the [Roads Module](https://njdhts.numetric.com/roads/crash-query#/) Included are brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values.
+Below is a list of attributes that can be used to filter the crash data presented in the [**Roads Module**](https://njdhts.numetric.com/roads/crash-query#/)** **Included are brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values.
+
+##### If you're looking for guidance on the mechanics of querying crashes, check out the [**Querying Crashes**](/chapter1/filtering-crashes.md) tutorial first before returning to this list.
+
+##### 
 
 ### Searchable Terms
 
@@ -29,167 +33,159 @@ Shows the crashes where the driver was cited for using their cell phone at the t
 
 ##### Contributing Circumstances
 
-Will appear in an array in a single column. Each vehicle should have two contributing circumstances and will array by vehicle \(e.g. Vehicle 1, Vehicle 2, Vehicle 3, etc.\). Example: Driver Inattention \(V1\), Following too Closely \(V1\), Driver Inattention \(V2\), None \(V2\).
+Will appear in an array in a single column. Each vehicle should have two contributing circumstances and will array by vehicle \(e.g. Vehicle 1, Vehicle 2, Vehicle 3, etc.\). Example: Driver Inattention \(V1\), Following too Closely \(V1\), Driver Inattention \(V2\), None \(V2\)
 
-| Contributing Circumstances |  |
-| :--- | :--- |
-| Animals in Roadway |  |
-| Backing Unsafely |  |
-| Brakes |  |
-| Control Device Defective or Missing |  |
-| Defective Lights |  |
-| Driver Inattention |  |
-| Failed to Obey Traffic Control Device \(Driver/Pedalcycle\) |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-Animals in Roadway
-
-Backing Unsafely
-
-Brakes
-
-Control Device Defective or Missing
-
-Defective Lights
-
-Driver Inattention
-
-Failed to Obey Traffic Control Device \(Driver/Pedcycle\)
-
-Failed to Yield Right of Way to Vehicle/Pedestrian
-
-Failure To Keep Right
-
-Following Too Closely
-
-Improper Lane Change
-
-Improper Parking
-
-Improper Passing
-
-Improper Turning
-
-Improper Use/Failed to Use Turn Signal
-
-Improper Use/No Lights
-
-Improper Work Zone
-
-Improper/Inadequate Lane Markings
-
-Mirrors
-
-None \(Driver/Pedcycle\)
-
-Obstruction/Debris In Road
-
-Other
-
-Other Driver/Pedalcyclist Action
-
-Other Roadway Factors
-
-Other Vehicle Factor
-
-Physical Obstructions \(viewing\)
-
-Road Surface Condition
-
-Ruts/ Holes/ Bumps
-
-Steering
-
-Sunglare
-
-Tires
-
-Unknown
-
-Unsafe Speed
-
-Veh Coupling/Hitch/Safety Chains
-
-Windows/Windshield
-
-Wheels
-
-Wipers
-
-Wrong Way
+* Animals in Roadway
+* Backing Unsafely
+* Brakes
+* Control Device Defective or Missing
+* Defective Lights
+* Driver Inattention
+* Failed to Obey Traffic Control Device \(Driver/Pedcycle\)
+* Failed to Yield Right of Way to Vehicle/Pedestrian
+* Failure To Keep Right
+* Following Too Closely
+* Improper Lane Change
+* Improper Parking
+* Improper Passing
+* Improper Turning
+* Improper Use/Failed to Use Turn Signal
+* Improper Use/No Lights
+* Improper Work Zone
+* Improper/Inadequate Lane Markings
+* Mirrors
+* None \(Driver/Pedcycle\)
+* Obstruction/Debris In Road
+* Other
+* Other Driver/Pedalcyclist Action
+* Other Roadway Factors
+* Other Vehicle Factor
+* Physical Obstructions \(viewing\)
+* Road Surface Condition
+* Ruts/ Holes/ Bumps
+* Steering
+* Sunglare
+* Tires
+* Unknown
+* Unsafe Speed
+* Veh Coupling/Hitch/Safety Chains
+* Windows/Windshield
+* Wheels
+* Wipers
+* Wrong Way
 
 ##### County
 
 County where the crash took place.
 
-ATLANTIC
-
-BERGEN
-
-BURLINGTON
-
-CAMDEN
-
-CAPE MAY
-
-CUMBERLAND
-
-ESSEX
-
-GLOUCESTER
-
-HUDSON
-
-HUNTERDON
-
-MERCER
-
-MIDDLESEX
-
-MONMOUTH
-
-MORRIS
-
-OCEAN
-
-PASSAIC
-
-SALEM
-
-SOMERSET
-
-SUSSEX
-
-UNION
-
-WARREN
+* Atlantic
+* Bergen
+* Burlington
+* Camden
+* Cape May
+* Cumberland
+* Essex
+* Gloucester
+* Hudson
+* Hunterdon
+* Mercer
+* Middlesex
+* Monmouth
+* Morris
+* Ocean
+* Passaic
+* Salem
+* Somerset
+* Sussex
+* Union
+* Warren
 
 **Crash Characteristics **
 
-These are pre-calculated queries that are stored in an array if relevant to the individual crash event. It is preferred to search for these factors under Crash Characteristics to be sure you are querying the database most efficiently. In each of the cases below, the element is present. Examples: Bicyclist included one or more bicyclists, Curve-related is where crash occurred on a roadway curve.Bicyclist Curve Related Head-On Live Animal Motorcycle Older Driver Pedestrian Ran Off Road Unrestrained Passenger Work Zone Young Driver
+These are pre-calculated queries that are stored in an array if relevant to the individual crash event. It is preferred to search for these factors under Crash Characteristics to be sure you are querying the database most efficiently. In each of the cases below, the element is present. Examples: Bicyclist included one or more bicyclists, Curve-related is where crash occurred on a roadway curve.
 
-Crash Date – The date the crash took place Any Crash Date. Format is 2016-04-25
+* Bicyclist
+* Curve Related 
+* Head-On 
+* Live Animal 
+* Motorcycle 
+* Older Driver 
+* Pedestrian 
+* Ran Off Road 
+* Unrestrained Passenger 
+* Work Zone 
+* Young Driver
 
-Crash Location – Description of location where crash took place, typically the street name. Dynamic field – this is where you can type in the street the crash took place on. Keep in mind there may be many iterations of street name \(e.g. JFK Blvd, John F. Kennedy Blvd, JFK Boulevard\). Street names may have also been entered by their local name as well \(e.g. Main Street = Route 501\). Searches may not return all crashes until all variations of street names have been entered.
+##### Crash Date
 
-4 \| P a g e
+The date the crash took place. Any Crash Date. Format is 2016-04-25
 
-Crash Month – Also available as sidebar filter. January February March April May June July August September October November December
+##### Crash Location
 
-Crash Type – Typically the first injury or damage-producing event. Also available as a sidebar filter. Animal Backing Encroachment Fixed Object Left Turn / U Turn Non-fixed Object Opposite Direction - Head On/Angular Opposite Direction - Side Swipe Other Overturned Pedalcyclist – Does NOT capture all Pedalcycle Crashes. Recommended to search for Bicyclist under “Crash Characteristics” Pedestrian – Does NOT capture all Pedestrian Crashes. Recommended to search for Pedestrian under “Crash Characteristics” Railcar-vehicle Right Angle Same Direction - Rear End Same Direction - Side Swipe Struck Parked Vehicle Unknown
+Description of location where crash took place, typically the street name. Dynamic field – this is where you can type in the street the crash took place on. Keep in mind there may be many iterations of street name \(e.g. JFK Blvd, John F. Kennedy Blvd, JFK Boulevard\). Street names may have also been entered by their local name as well \(e.g. Main Street = Route 501\). Searches may not return all crashes until all variations of street names have been entered.
 
-Crash Year – Also available as sidebar filter. 2011 2012 2013 2014 2015
+##### Crash Month
 
-5 \| P a g e
+Also available as sidebar filter.
 
-DHTS RegionRegion 1 – \(Atlantic, Burlington, Camden, Cape May, Cumberland, Gloucester, Salem Counties\) Region 2 – \(Hunterdon, Mercer, Middlesex, Monmouth, Ocean, Somerset, Union Counties\) Region 3 – \(Bergen, Essex, Hudson, Morris, Passaic, Sussex, Warren Counties\)
+* January 
+* February 
+* March 
+* April 
+* May 
+* June 
+* July 
+* August 
+* September 
+* October 
+* November 
+* December
 
-DIRECTION\_FROM\_CROSS\_STREETNorth South East West
+##### Crash Type
 
-Direction of TravelNorth South East West Unknown
+Typically the first injury or damage-producing event. Also available as a sidebar filter.
+
+* Animal 
+* Backing 
+* Encroachment 
+* Fixed Object 
+* Left Turn / U Turn 
+* Non-fixed Object 
+* Opposite Direction - Head On/Angular 
+* Opposite Direction - Side Swipe 
+* Other 
+* Overturned 
+* Pedalcyclist – **Does NOT capture all Pedalcycle Crashes**
+  * _Recommended to search for Bicyclist Involved under “Crash Characteristics”! _
+* Pedestrian – **Does NOT capture all Pedestrian Crashes**
+  * _Recommended to search for Pedestrian Involved under “Crash Characteristics”! _
+* Railcar-vehicle 
+* Right Angle 
+* Same Direction - Rear End 
+* Same Direction - Side Swipe 
+* Struck Parked Vehicle 
+* Unknown
+
+##### Crash Year
+
+Also available as sidebar filter. See [**Appendix FAQ**](/crash-records-information.md) for more information. Format is 2006
+
+##### DHTS Region
+
+* Region 1 – \(Atlantic, Burlington, Camden, Cape May, Cumberland, Gloucester, Salem Counties\) .
+* Region 2 – \(Hunterdon, Mercer, Middlesex, Monmouth, Ocean, Somerset, Union Counties\) 
+* Region 3 – \(Bergen, Essex, Hudson, Morris, Passaic, Sussex, Warren Counties\)
+
+**DIRECTION\_FROM\_CROSS\_STREET**
+
+* North
+*  South 
+* East 
+* West
+
+**Direction of Travel**
+
+North South East West Unknown
 
 Distracted Driving Involved – Crashes defined where any driver involved had either Contributing Circumstance \(CC\) 1 or 2 cited as Driver Inattention. This is a count of crashes. This field is identical to the Driver Contributing Factors field where “Distracted Driving” is cited, and it is recommended to use the Driver Contributing Factors field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
 
