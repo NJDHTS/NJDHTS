@@ -126,20 +126,20 @@ Description of location where crash took place, typically the street name. Dynam
 
 ##### Crash Month
 
-Also available as sidebar filter.
+Also available as sidebar filter. Search in the filter bar with the month name. Data downloaded as CSV is coded by crash moth number, shown in parenthesis.
 
-* January 
-* February 
-* March 
-* April 
-* May 
-* June 
-* July 
-* August 
-* September 
-* October 
-* November 
-* December
+* January \(1\)
+* February \(2\)
+* March \(3\)
+* April \(4\)
+* May \(5\)
+* June \(6\)
+* July \(7\)
+* August \(8\)
+* September \(9\) 
+* October \(10\)
+* November \(11\)
+* December \(12\)
 
 ##### Crash Type
 
@@ -236,7 +236,7 @@ Weather conditions at the time of the crash.
 
 ##### Events
 
-All Sequences of events \(1-4\) for each vehicle involved in the crash. This variable is stored as an array. Each vehicle should have up to four sequence of events. They cascade in order \(First, Second, Third, Fourth\) and by Vehicle number \(1, 2, etc.\). 
+All Sequences of events \(1-4\) for each vehicle involved in the crash. This variable is stored as an array. Each vehicle should have up to four sequence of events. They cascade in order \(First, Second, Third, Fourth\) and by Vehicle number \(1, 2, etc.\).
 
 * Bridge Overhead Structure 
 * Bridge Parapet End 
@@ -293,61 +293,196 @@ All Sequences of events \(1-4\) for each vehicle involved in the crash. This var
 
 Will appear as an array. They will cascade in order of Vehicle number. Same searchable terms as [Events](#events)
 
-Functional Class – Functional class of the roadway where the crash occurred. Rural Interstate Rural Local Rural Major Collector Rural Minor Arterial Rural Minor Collector Rural Principal Arterial
+##### Functional Class 
 
-9 \| P a g e
+Functional class of the roadway where the crash occurred. 
 
-Unknown Urban Collector Urban Freeway/Expressway Urban Interstate Urban Local Urban Minor Arterial Urban Principal Arterial
+* Rural Interstate 
+* Rural Local 
+* Rural Major Collector 
+* Rural Minor Arterial 
+* Rural Minor Collector 
+* Rural Principal Arterial
+* Unknown 
+* Urban Collector 
+* Urban Freeway/Expressway 
+* Urban Interstate 
+* Urban Local 
+* Urban Minor Arterial 
+* Urban Principal Arterial
 
-Hazmat Involved – Shows the crashes where hazardous material was on board one of the vehicles involved in the crash. This is a count of crashes.1 – \(Yes\) 0 – \(No\)
+##### Hazmat Involved
 
-Highway Type – Type of highway division as cited by reporting officer. Dual/Dual Divided Undivided Unknown
+Shows the crashes where hazardous material was on board one of the vehicles involved in the crash. This is a count of crashes.
 
-Horizontal Alignment – Horizontal alignment of the roadway as cited by reporting officer. Straight Curve Unknown
+* Hazmat Involved \(Yes\)
+* NOT Hazmat Involved \(No\)
 
-Intersection Not At Intersection At Intersection – Crashes cited as taking place inside the “box” At or near Railroad Crossing
+##### Highway Type 
 
-Is Ramp – Crashes that took place on an entrance/exit ramp. NOT RAMP TO FROM
+Type of highway division as cited by reporting officer. 
 
-Jurisdiction Burlington County Bridge Commission County D.R.J.T.B.C. Delaware River and Bay Authority Delaware River Port Authority Municipal N.J.D.O.T. New Jersey Turnpike Authority
+* Dual/Dual 
+* Divided 
+* Undivided 
+* Unknown
 
-10 \| P a g e
+##### Horizontal Alignment 
 
-Palisades Interstate Parkway Commission Port Authority of N.Y & N.J. South Jersey Transportation Authority Unknown
+Horizontal alignment of the roadway as cited by reporting officer. 
 
-Lane Count – Number of Lanes in roadway \(e.g. 1, 2, 3\). Each individual lane in each roadway direction contributes to this count \(e.g. a two-way road with one lane in each direction would have Lane Count = 2\).
+* Straight 
+* Curve
+*  Unknown
 
-Light ConditionDark \(No Street Lights\) Dark \(Street Lights Off\) Dark \(Street Lights On\) Dawn Daylight Dusk Unknown
+##### Intersection 
 
-Location Direction –Nominal direction of the roadway where the crash occurred \(example: Interstate 78 East = East; Route 1 South = South\). As cited by recording officer. North South East West
+* Within Intersection Boundaries – Crashes cited as taking place inside the “box”
+* Not within Intersection Boundaries
+* At or near Railroad Crossing
 
-Live Animal Involved – Crashes involving Live Animals. Includes cases where animal was not struck, but caused loss of control of vehicle resulting in a crash. This field is identical to the Crash Characteristics field where “Live Animal” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
+##### Is Ramp
 
-Median TypeCurbed None Painted/Unprotected Positive Unknown Unprotected
+Crashes that took place on an entrance/exit ramp. 
 
-MPO – Metropolitan Planning Organization DVRPC NJTPA
+* Not Ramp 
+* To
+* From
 
-11 \| P a g e
+##### Jurisdiction 
 
-SJTPO
+* Burlington County Bridge Commission 
+* County 
+* D.R.J.T.B.C. \(Delaware River Joint Toll Bridge Commission\)
+* Delaware River and Bay Authority 
+* Delaware River Port Authority 
+* Municipal 
+* N.J.D.O.T. \(New Jersey Department of Transportation\)
+* New Jersey Turnpike Authority
+* Palisades Interstate Parkway Commission 
+* Port Authority of N.Y & N.J. 
+* South Jersey Transportation Authority 
+* Unknown
 
-Municipality – Municipality where the crash took place. Could differ from the Police Department field for calls taken by other departments.
+##### Lane Count 
 
-Motorcycle Involved – Crashes involving a motorcycle. Could include multiple motorcycles. This is a count of crashes. This field is identical to the Crash Characteristics field where “Motorcycle” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
+Number of Lanes in roadway \(e.g. 1, 2, 3\). Each individual lane in each roadway direction contributes to this count \(e.g. a two-way road with one lane in each direction would have Lane Count = 2\).
 
-Older Driver Involved – At least one of the drivers involved was 65 years of age or older. This is a count of crashes. This field is identical to the Crash Characteristics field where “Older Driver” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
+##### Light Condition
 
-Pedestrians Injured – Total number of pedestrians and/or bicyclists injured in the crash. This is a count of individual pedestrians.
+* Dark \(No Street Lights\) 
+* Dark \(Street Lights Off\) 
+* Dark \(Street Lights On\) 
+* Dawn 
+* Daylight 
+* Dusk 
+* Unknown
 
-Pedestrians Killed – Total number of pedestrians and/or bicyclists killed in the crash. This is a count of individual pedestrians.
+##### Location Direction
 
-Police Department – Police department that responded to the crash event. Can vary from the Municipality where the crash occurred if a different department responded.
+Nominal direction of the roadway where the crash occurred \(example: Interstate 78 East = East; Route 1 South = South\). As cited by recording officer.
 
-Pre Crash Vehicle Action – The action taking place for each vehicle leading up to the crash. Stored as an array corresponding to each vehicle involved in the crash \(e.g: a two-vehicle crash could have a Pre Crash Vehicle Action: Changing Lanes, Going Straight Ahead\). Array ordered by vehicle number. \(reserved\) – Blank Field Backing Changing Lanes Coming From Behind Parked Vehicle Crossing / Jaywalking Crossing at marked Crosswalk \(At Mid-Block\) Crossing at unmarked Crosswalk \(At Intersection\) Driverless / Moving Driving on Shoulder Getting On/Off Vehicle Going Straight Ahead Making Left Turn Making Right Turn \(not turn on red\) Making U Turn
+* North 
+* South 
+* East 
+* West
 
-12 \| P a g e
+##### Live Animal Involved 
 
-Merging/Entering Traf Lane Negotiating Curve Other Other Pedestrian Action Other Veh/Cyclist Action Other Working in Roadway Parked Parking Passing Pedestrian Off Road Playing in Road Pushing/Working on Vehicle Right Turn on Red Slowing or Stopping Standing/Lying/Kneeling Against Traffic Starting From Parking Starting in Traffic Stopped in Traffic Unknown Walking To/From School Walking/Jogging Against Traffic Walking/Jogging with Traffic Blank – blank field
+Crashes involving Live Animals. Includes cases where animal was not struck, but caused loss of control of vehicle resulting in a crash. This field is identical to the Crash Characteristics field where “Live Animal” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 
+
+* Live Animal Involved \(Yes\)
+* NOT Live Animal Involved \(No\)
+
+##### Median Type
+
+* Curbed 
+* None 
+* Painted/Unprotected 
+* Positive 
+* Unknown 
+* Unprotected
+
+##### MPO
+
+Metropolitan Planning Organization 
+
+* DVRPC \(Delaware Valley Regional Planning Commission\)
+* NJTPA \(North Jersey Transportation Planning Authority\)
+* SJTPO \(South Jersey Transportation Planning Authority\)
+
+##### Municipality
+
+Municipality where the crash took place. Could differ from the Police Department field for calls taken by other departments.
+
+##### Motorcycle Involved 
+
+Crashes involving a motorcycle. Could include multiple motorcycles. This is a count of crashes. This field is identical to the Crash Characteristics field where “Motorcycle” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
+
+* Motorcycle Involved \(Yes\)
+* NOT Motorcycle Involved \(No\)
+
+##### Older Driver Involved 
+
+At least one of the drivers involved was 65 years of age or older. This is a count of crashes. This field is identical to the Crash Characteristics field where “Older Driver” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 
+
+Older Driver Involved \(Yes\)
+
+NOT Older Driver Involved \(No\)
+
+##### Pedestrians Injured
+
+Total number of pedestrians and/or bicyclists injured in the crash as cited by officer. This is a count of individual pedestrians.
+
+##### Pedestrians Killed 
+
+Total number of pedestrians and/or bicyclists killed in the crash as cited by officer. This is a count of individual pedestrians.
+
+##### Police Department 
+
+Police department that responded to the crash event. Can vary from the Municipality where the crash occurred if a different department responded.
+
+##### Pre Crash Vehicle Action
+
+The action taking place for each vehicle leading up to the crash. Stored as an array corresponding to each vehicle involved in the crash \(e.g: a two-vehicle crash could have a Pre Crash Vehicle Action: Changing Lanes, Going Straight Ahead\). Array ordered by vehicle number. 
+
+* Backing 
+* Changing Lanes 
+* Coming From Behind Parked Vehicle 
+* Crossing / Jaywalking 
+* Crossing at Marked Crosswalk \(Mid-Block\) 
+* Crossing at Marked Crosswalk \(at Intersection\)
+* Crossing at unmarked Crosswalk \(at Intersection\) 
+* Driverless / Moving 
+* Driving on Shoulder 
+* Getting On/Off Vehicle 
+* Going Straight Ahead 
+* Making Left Turn 
+* Making Right Turn \(not turn on red\) 
+* Making U Turn
+* Merging/Entering Traf Lane 
+* Negotiating Curve 
+* Other 
+* Other Pedestrian Action 
+* Other Veh/Cyclist Action 
+* Other Working in Roadway 
+* Parked 
+* Parking 
+* Passing 
+* Pedestrian 
+* Off Road 
+* Playing in Road 
+* Pushing/Working on Vehicle 
+* Right Turn on Red 
+* Slowing or Stopping 
+* Standing/Lying/Kneeling Against Traffic 
+* Starting From Parking 
+* Starting in Traffic 
+* Stopped in Traffic 
+* Unknown 
+* Walking To/From School 
+* Walking/Jogging Against Traffic 
+* Walking/Jogging with Traffic 
 
 Pedestrian Involved – Crashes where at least one pedestrian was involved in the crash. This is a count of crashes. This field is identical to the Crash Characteristics field where “Pedestrian” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
 
