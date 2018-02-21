@@ -6,7 +6,7 @@ Below is a list of attributes that can be used to filter the crash data presente
 
 ##### If you're looking for guidance on the mechanics of querying crashes, check out the [**Querying Crashes**](/chapter1/filtering-crashes.md) tutorial first before returning to this list.
 
-##### 
+##### If you need more information for a crash data element, consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf), which contains comprehensive definitions for each crash data element.
 
 ### Searchable Terms
 
@@ -14,22 +14,22 @@ Below is a list of attributes that can be used to filter the crash data presente
 
 Should show crashes where at least one person involved was under the influence of alcohol at the time of the crash.  This includes drivers, bicyclists and pedestrians. Vehicle occupants other than the driver are not part of this definition. This field is identical to the Crash Characteristics field where “Alcohol” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
 
-* 1 – \(Yes\) 
-* 0 – \(No\)
+* Alcohol Involved \(Yes\) 
+* NOT Acohol Involved \(No\)
 
 ##### Bicyclist Involved
 
 Shows crashes where at least one cyclist was involved in the crash. This field is identical to the Contributing Circumstance field where “Bicyclist” is cited and derived for analysis convenience. This field is identical to the Crash Characteristics field where “Bicyclist” is cited, and it is recommended to use the Crash Characteristics field for the most efficient searches.
 
-* 1 – \(Yes\) 
-* 0 – \(No\)
+* Bicycle Involved \(Yes\) 
+* NOT Bicycle Involved \(No\)
 
 **Cell Phone Related**
 
 Shows the crashes where the driver was cited for using their cell phone at the time of the crash. This field is populated through witness accounts and voluntary admission and may not include all crashes where cell phone was in use. This field is identical to the Driver Contributing Factors field where “Cell Phone” is cited, and it is recommended to use the Driver Contributing Factors field for the most efficient searches.
 
-* 1 – \(Yes\) 
-* 0 – \(No\)
+* Cell Phone Related \(Yes\) 
+* NOT Cell Phone Related \(No\)
 
 ##### Contributing Circumstances
 
@@ -168,7 +168,7 @@ Typically the first injury or damage-producing event. Also available as a sideba
 
 ##### Crash Year
 
-Also available as sidebar filter. See [**Appendix FAQ**](/crash-records-information.md) for more information. Format is 2006
+Also available as sidebar filter. See [**Appendix FAQ**](/crash-records-information.md) for more information about available crash dates. Format is eg. 2006
 
 ##### DHTS Region
 
@@ -179,37 +179,119 @@ Also available as sidebar filter. See [**Appendix FAQ**](/crash-records-informat
 **DIRECTION\_FROM\_CROSS\_STREET**
 
 * North
-*  South 
+* South 
 * East 
 * West
 
 **Direction of Travel**
 
-North South East West Unknown
+* North 
+* South 
+* East 
+* West 
+* Unknown
 
-Distracted Driving Involved – Crashes defined where any driver involved had either Contributing Circumstance \(CC\) 1 or 2 cited as Driver Inattention. This is a count of crashes. This field is identical to the Driver Contributing Factors field where “Distracted Driving” is cited, and it is recommended to use the Driver Contributing Factors field for the most efficient searches. 1 – \(Yes\) 0 – \(No\)
+##### Distracted Driving Involved
 
-Driver Contributing Factors - These are pre-calculated queries that are stored as an array. It is preferred to search under Driver Contributing Factors to be sure you are querying the database most efficiently. In each of the cases below, the element is present in the crash event. Examples: Distracted Driving is one or more drivers was cited as Driver Inattention as their first or second Contributing Circumstance; Drowsy Fatigued Driving is one or more drivers had a physical status of drowsy or fatigued. Alcohol Related Cell Phone In Use Distracted Driving Drowsy Fatigued Driving Drugged Driving Unsafe Speed
+Crashes defined where any driver involved had either Contributing Circumstance \(CC\) 1 or 2 cited as Driver Inattention. This is a count of crashes. This field is identical to the Driver Contributing Factors field where “Distracted Driving” is cited, and it is recommended to use the Driver Contributing Factors field for the most efficient searches.
 
-Drugged Driving – Defined as one or more drivers involved in the crash had the Driver Physical Status listed as “Drug Use \(Illicit\)” or “Medication.” This definition does not include crashes where “Alcohol and Drug Use \(Illicit or Medication\) was cited as the Driver Physical Status. This is a count of crashes. This field is identical to the Driver Contributing Factors field where “Drugged Driving” is cited, and it is recommended to use the Driver Contributing Factors field for the most efficient searches.
+* Distracted Driving Involved \(Yes\)
+* NOT Distracted Driving Inolved \(No\)
 
-6 \| P a g e
+##### Driver Contributing Factors
 
-1 – \(Yes\) 0 – \(No\)
+These are pre-calculated queries that are stored as an array. It is preferred to search under Driver Contributing Factors to be sure you are querying the database most efficiently. In each of the cases below, the element is present in the crash event. Examples: Distracted Driving is one or more drivers was cited as Driver Inattention as their first or second Contributing Circumstance; Drowsy Fatigued Driving is one or more drivers had a physical status of drowsy or fatigued.
 
-Environmental Condition – Weather conditions at the time of the crash. Blowing Sand/Dirt Blowing Snow Clear Fog/Smog/Smoke Other Overcast Rain Severe Crosswinds Sleet/Hail/Freezing Rain Snow Unknown
+* Alcohol Related
+* Cell Phone In Use 
+* Distracted Driving 
+* Drowsy Fatigued Driving 
+* Drugged Driving
+* Unsafe Speed
 
-Events – All Sequences of events \(1-4\) for each vehicle involved in the crash. This variable is stored as an array. Each vehicle should have up to four sequence of events. They cascade in order \(First, Second, Third, Fourth\) and by Vehicle number \(1, 2, etc.\). Bridge Overhead Structure Bridge Parapet End Bridge Pier or Support Bridge Rail Cargo / Equipment Loss or Shift Concrete Traffic Barrier Crossed Median / Centerline Culvert Curb Deer Ditch Downhill Runaway Embankment Equipment Failure Fell / Jumped From Vehicle Fence Fire Hydrant Fire/Explosion Guardrail End Guardrail Face Immersion Impact Attenuator / Crash Cushion Jackknife Light Standard
+##### Drugged Driving
 
-7 \| P a g e
+Defined as one or more drivers involved in the crash had the Driver Physical Status listed as “Drug Use \(Illicit\)” or “Medication.” This definition does not include crashes where “Alcohol and Drug Use \(Illicit or Medication\) was cited as the Driver Physical Status. This is a count of crashes. This field is identical to the Driver Contributing Factors field where “Drugged Driving” is cited, and it is recommended to use the Driver Contributing Factors field for the most efficient searches.
 
-MV In Transport MV In Transport/ Other Roadway Mailbox Other Other Animal Other Fixed Object Other Non Collision Other Non-Fixed Object Other Post/ Pole/ Support Other Traffic Barrier Overturn \(Rollover\) Parked MV Pedalcyclist Pedestrian Ran Off Road - Left Ran Off Road - Right Separation of Units Struck By Object Set In Motion By MV Thrown / Falling Object Traffic Sign Support Traffic Signal Standard Train / Trolley / Other Railcar Tree Unknown Utility Pole Work Zone or Maint. Equipment
+* Drugged Driver Involved \(Yes\)
+* NOT Drugged Driver Involvled \(No\)
 
-First Sequence of Events - Will appear as an array. They will cascade in order of Vehicle number. Bridge Overhead Structure Bridge Parapet End Bridge Pier or Support Bridge Rail Cargo / Equipment Loss or Shift Concrete Traffic Barrier Crossed Median / Centerline Culvert Curb Deer Ditch Downhill Runaway Embankment Equipment Failure Fell / Jumped From Vehicle
+##### Environmental Condition
 
-8 \| P a g e
+Weather conditions at the time of the crash.
 
-Fence Fire Hydrant Fire/Explosion Guardrail End Guardrail Face Immersion Impact Attenuator / Crash Cushion Jackknife Light Standard MV In Transport MV In Transport/ Other Roadway Mailbox Other Other Animal Other Fixed Object Other Non Collision Other Non-Fixed Object Other Post/ Pole/ Support Other Traffic Barrier Overturn \(Rollover\) Parked MV Pedalcyclist Pedestrian Ran Off Road - Left Ran Off Road - Right Separation of Units Struck By Object Set In Motion By MV Thrown / Falling Object Traffic Sign Support Traffic Signal Standard Train / Trolley / Other Railcar Tree Unknown Utility Pole Work Zone or Maint. Equipment
+* Blowing Sand/Dirt 
+* Blowing Snow 
+* Clear 
+* Fog/Smog/Smoke 
+* Other 
+* Overcast 
+* Rain 
+* Severe 
+* Crosswinds 
+* Sleet/Hail/Freezing 
+* Rain 
+* Snow 
+* Unknown
+
+##### Events
+
+All Sequences of events \(1-4\) for each vehicle involved in the crash. This variable is stored as an array. Each vehicle should have up to four sequence of events. They cascade in order \(First, Second, Third, Fourth\) and by Vehicle number \(1, 2, etc.\). 
+
+* Bridge Overhead Structure 
+* Bridge Parapet End 
+* Bridge Pier or Support 
+* Bridge Rail 
+* Cargo / Equipment Loss or Shift 
+* Concrete Traffic Barrier 
+* Crossed Median / Centerline 
+* Culvert 
+* Curb 
+* Deer 
+* Ditch 
+* Downhill Runaway 
+* Embankment 
+* Equipment Failure 
+* Fell / Jumped From Vehicle 
+* Fence 
+* Fire Hydrant 
+* Fire/Explosion 
+* Guardrail End 
+* Guardrail Face 
+* Immersion 
+* Impact Attenuator / Crash Cushion 
+* Jackknife 
+* Light Standard
+* MV In Transport 
+* MV In Transport/ Other Roadway 
+* Mailbox 
+* Other 
+* Other Animal 
+* Other Fixed Object 
+* Other Non Collision
+* Other Non-Fixed Object 
+* Other Post/ Pole/ Support 
+* Other Traffic Barrier 
+* Overturn \(Rollover\) 
+* Parked MV 
+* Pedalcyclist 
+* Pedestrian 
+* Ran Off Road - Left 
+* Ran Off Road - Right 
+* Separation of Units 
+* Struck By Object 
+* Set In Motion By MV Thrown / Falling Object 
+* Traffic Sign Support 
+* Traffic Signal Standard 
+* Train / Trolley / Other Railcar 
+* Tree 
+* Unknown 
+* Utility Pole 
+* Work Zone or Maint. Equipment
+
+##### First Sequence of Events
+
+Will appear as an array. They will cascade in order of Vehicle number. Same searchable terms as [Events](#events)
 
 Functional Class – Functional class of the roadway where the crash occurred. Rural Interstate Rural Local Rural Major Collector Rural Minor Arterial Rural Minor Collector Rural Principal Arterial
 
