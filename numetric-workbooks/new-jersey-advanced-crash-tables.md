@@ -1,6 +1,6 @@
 # NJ Statewide Crash Database
 
-To access the full New Jersey Statewide Crash Database for advanced querying, enter the Numetric Workbooks module as follows:
+To access the full New Jersey Statewide Crash Database for advanced querying, enter the [**Numetric Workbooks**](https://cloud.numetric.com/workbooks#/) module as follows:
 
 1. Hover your mouse over the Numetric logo on the top left corner of the screen
 2. Click on the Numetric logo from the dropdown menu
@@ -9,10 +9,10 @@ To access the full New Jersey Statewide Crash Database for advanced querying, en
 
 Once inside, select one of the four New Jersey Statewide Crash Database workbooks based on your table of primary interest:
 
-* To count pedestrians and bicyclists, select the Pedestrians and Bicyclists workbook.
-* To count drivers, select the Drivers workbook. 
-* To count occupants \(including the driver\), click the Occupants workbook. 
-* To count vehicles, click on the Vehicles workbook. 
+* To count pedestrians and bicyclists, select the [**Pedestrians and Bicyclists **](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f)workbook.
+* To count drivers, select the** **[**Drivers **](https://cloud.numetric.com/workbooks#/report2/0c8fa685-88d0-48d1-8355-36653e2bf64d)workbook. 
+* To count occupants \(including the driver\), click the [**Occupants **](https://cloud.numetric.com/workbooks#/report2/858d5c38-9959-4bc5-bdcd-905f342f85dd)workbook. 
+* To count vehicles, click on the [**Vehicles **](https://cloud.numetric.com/workbooks#/report2/66b8b15e-f226-42ff-bcbc-550ab1b661db)workbook. 
 
 The mechanics of querying and exporting data from the New Jersey Statewide Crash Database are the same as for all other CAT modules. See the [**Querying Crashes **](/chapter1/filtering-crashes.md)and [**Exporting Data**](/chapter1/exporting-data.md) pages for further information about those features.
 
@@ -20,7 +20,7 @@ The underlying data and design of the New Jersey Statewide Crash Database workbo
 
 ## [Pedestrians and Bicyclists](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f)
 
-The [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook uses the New Jersey Statewide Crash Database Pedestrian and Bicyclist table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **pedestrians and/or bicyclists** involved in crashes. Some examples of questions that could be answered using the Pedestrians and Bicyclists workbook are the following:
+The [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook uses the New Jersey Statewide Crash Database Pedestrian and Bicyclist table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **pedestrians and/or bicyclists** involved in crashes. Some examples of questions that could be answered using the [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook are the following:
 
 > Of the **bicyclists **involved in crashes, how many were under the influence of alcohol or drugs?
 >
@@ -84,5 +84,5 @@ Bear in mind that the [**Vehicles** ](https://cloud.numetric.com/workbooks#/repo
 
 ### Filterable Attributes
 
-A list of attributes that can be used to filter the crash data presented in the _NJ Statewide Crash Database_ advanced Numetric Workbooks has been compiled and will be added soon to this tutorial. Included are brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values.
+A list of attributes that can be used to filter the crash data presented in the _NJ Statewide Crash Database_ advanced Numetric Workbooks has been compiled and will be added soon to this tutorial. It will include brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values. In the interim, feel free to use the clickable filters or use the [**Searchable Terms - Roads**](/chapter1/searchable-terms.md) guide as a guiding template for your filter
 

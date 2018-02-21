@@ -1,6 +1,6 @@
 # New Jersey State Police Fatal Crash Database
 
-To access the NJSP Fatal Crash Database, enter the Numetric Workbooks module as follows:
+To access the NJSP Fatal Crash Database, enter the [**Numetric Workbooks**](https://cloud.numetric.com/workbooks#/) module as follows:
 
 1. Hover your mouse over the Numetric logo on the top left corner of the screen
 2. Click on the Numetric logo from the dropdown menu
