@@ -3,7 +3,7 @@
 	"plugins": ["noembed", "google-drive-video", "video"],
 	"links": {
 		"sidebar": {
-			"Contact us / Support": "mailto:thomas.hillman@rutgers.edu"
+			"Contact Us / Support": "mailto:thomas.hillman@rutgers.edu"
 		}
 	}
 }
