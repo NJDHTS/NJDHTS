@@ -4,11 +4,11 @@ Looking for a user-friendly way to make crash maps for your Safe Routes to Schoo
 
 ## Step 1 - Log in to the CAT
 
-Main portal: [**http://njdhts.numetric.com**](http://njdhts.numetric.com)
+Main portal: [**http://njdhts.numetric.com**](https://njdhts.numetric.com/roads/crash-query#/)
 
 ![](/assets/ezgif.com-optimize%284%29.gif)
 
-For more help logging in, check out the** **[**Logging In **](/chapter1/logging-in.md)page.
+For more help logging in, check out the** **[**Logging In**](/chapter1/logging-in.md) page.
 
 ## Step 2 - Filter the Data
 
@@ -40,7 +40,7 @@ For more help on exporting data, check out the [**Exporting Data**](/chapter1/ex
 
 ## Step 4 - Import into Google My Maps
 
-Navigate your web browser to mymaps.google.com and log in with your google account \(or make one if necessary\).
+Navigate your web browser to [mymaps.google.com](mymaps.google.com) and log in with your google account \(or make one if necessary\).
 
 ##### Click "Create New Map" and then click "Import" to upload the CSV file containing your crash data
 
