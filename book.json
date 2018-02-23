@@ -3,7 +3,7 @@
 	"plugins": ["-lunr", "-search", "search-plus", "noembed", "google-drive-video", "video", "styled-blockquotes", "emphasize", "download-pdf-link"],
  	"pluginsConfig": {
     		"download-pdf-link": {
-      		"base": "https://www.gitbook.com/book/nhdhts/catdocs/",
+      		"base": "https://www.gitbook.com/book/nhdhts/catdocs/details/",
       		"label": {
           		"en": "Download PDF"
     			}
