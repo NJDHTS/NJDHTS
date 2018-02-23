@@ -27,7 +27,7 @@ The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9be
 >
 > How many fatal **crashes** occurred where alcohol or drug use was involved on Interstate 297?
 
-Bear in mind that the[**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
+Bear in mind that the [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 \# of crashes where a crash attribute was applicable \(eg. municipality, year, time of day, route\)
 
