@@ -1,12 +1,13 @@
 {
 	"gitbook": "3.x.x",
 	"plugins": ["-lunr", "-search", "search-plus", "noembed", "google-drive-video", "video", "styled-blockquotes", "emphasize", "download-pdf-link"],
-	"pluginsConfig": {
-	"download-pdf-link": {
+ 	"pluginsConfig": {
+    		"download-pdf-link": {
       		"base": "https://www.gitbook.com/book/nhdhts/catdocs/",
-     		 "label": {
-  		        "en": "Download PDF",
-    		  }
+      		"label": {
+          		"en": "Download PDF"
+    			}
+		}
 	},
 	"links": {
 		"sidebar": {
