@@ -6,7 +6,7 @@ Below is a list of attributes that can be used to filter the crash data presente
 
 ##### If you're looking for guidance on the mechanics of querying crashes, check out the [**Querying Crashes**](/chapter1/filtering-crashes.md) tutorial first before returning to this list.
 
-##### If you need more information for a crash data element, consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR1CrashReportManual12517.pdf), which contains comprehensive definitions for each crash data element.
+##### If you need more information for a crash data element, consult the [**NJTR-1 Crash Report Manual**](/www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf), which contains comprehensive definitions for each crash data element.
 
 ## Searchable Terms
 
@@ -168,7 +168,7 @@ Typically the first injury or damage-producing event. Also available as a sideba
 
 #### Crash Year
 
-Also available as sidebar filter. See [**Appendix FAQ**](https://thomashillman.gitbooks.io/njdhts-cat/content/crash-records-information.html) for more information about available crash dates. Format is eg. 2006
+Also available as sidebar filter. See [**Appendix FAQ**](/crash-records-information.md) for more information about available crash dates. Format is eg. 2006
 
 #### DHTS Region
 
