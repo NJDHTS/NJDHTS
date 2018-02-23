@@ -1,6 +1,11 @@
 {
 	"gitbook": "3.x.x",
-	"plugins": ["-lunr", "-search", "search-plus", "noembed", "google-drive-video", "video", "styled-blockquotes", "emphasize"],
+	"plugins": ["-lunr", "-search", "search-plus", "noembed", "google-drive-video", "video", "styled-blockquotes", "emphasize", "download-pdf-link"],
+	"download-pdf-link": {
+      		"base": "https://www.gitbook.com/book/nhdhts/catdocs/",
+     		 "label": {
+  		        "en": "Download PDF"
+    		  }
 	"links": {
 		"sidebar": {
 			"Contact Us / Support": "mailto:thomas.hillman@rutgers.edu"
