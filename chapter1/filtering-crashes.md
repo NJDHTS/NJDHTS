@@ -14,7 +14,7 @@ You can use any filtering method in conjunction with another. Filters are cumula
 
 The most intuitive way to filter crashes is by clicking on the interactive charts and graphs found throughout the Crash Analysis Tool. All charts will automatically adjust their totals based on any filters that are applied \(either by clicking to apply filters, or using one or more of the filtering methods below\). Chart and graphs provide totals based on the underlying data table \(they are not limited to "geocoded" crashes, or those with X and Y coordinates, but rather give the true total of any crashes in the database that fit the specified filters\).
 
-Let's take the folloiwng example: Can we find crashes between the years of 2012 and 2016, where there was pedestrian involvement, in the municipality of New Brunswick?
+Let's take the following example: Can we find crashes between the years of 2012 and 2016, where there was pedestrian involvement, in the municipality of New Brunswick?
 
 ##### Crash Year
 
@@ -34,11 +34,11 @@ Now you should see the total crashes fell again from 1.4 million to 26 thousand,
 
 ##### Municipality
 
-Now let's further filter to just the municipality we're interested in, in this case New Brunswick. Under "More Stats", find "Municiplity" and hover over the chart until you find New Brunswick. Click on New Brunswick to apply the filter.
+Now let's further filter to just the municipality we're interested in, in this case New Brunswick. Under "More Stats", find "Municipality" and hover over the chart until you find New Brunswick. Click on New Brunswick to apply the filter.
 
 ![](/assets/click_municipality.gif)
 
-We have now filtered the data down to just over 300 pedestrian involved crashes in New Brunswick from 2012-2016. You could continue to explore the data in the Crash Analysis Tool, or check out the [Exporting Data ](/chapter1/exporting-data.md)page to learn to export for further analysis.
+We have now filtered the data down to just over 300 pedestrian involved crashes in New Brunswick from 2012-2016. You could continue to explore the data in the Crash Analysis Tool, or check out the [Exporting Data ](/exporting-data.md)page to learn to export for further analysis.
 
 #### Filter Bar
 
@@ -86,8 +86,8 @@ Once you've saved a query, to share it, simply click the share icon![](/assets/s
 
 ![](/assets/share_query.png)
 
-Type in the user name of the person you want to share the query with (for example: your municipal or county commissioners, the police chief, or other traffic safety officers). If they don't have a CAT user account yet, [email us](mailto: thomas.hillman@rutgers.edu) to get them acces.
+Type in the user name of the person you want to share the query with (for example: your municipal or county commissioners, the police chief, or other traffic safety officers). If they don't have a CAT user account yet, [email us](mailto: thomas.hillman@rutgers.edu) to get them access.
 
 
-Wow, that was a lot of informatino to take in. Take a break before tackling the next section!
+Wow, that was a lot of information to take in. Take a break before tackling the next section!
 
