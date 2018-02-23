@@ -66,9 +66,13 @@ The following video gives an overview of route filtering using Numetric. Note th
 
 ### Spatial Filter
 
-Spatial filters allow you to analyze crashes visually at an intersection or along a stretch of road. Because spatial filters are map-based, they only capture those crashes that have geocoded crash information \(currently approximately 70% of all crashes\). Below is a quick tutorial video on how to use a spatial filter. Note that currently spatial filters can only create square boxes, although abnormal polygon based selection is coming in a future Numetric release.
+Spatial filters allow you to analyze crashes visually at an intersection or along a stretch of road. Because spatial filters are map-based, they only capture those crashes that have geocoded crash information \(currently approximately 70% of all crashes\). For example, you could create a box around an intersection to analyze geocoded crashes that occurred in the vicinity of the intersection. To create a spatial filter, click on the icons next to the hand on the top left of the Map Points page.
 
-{{ 'https://www.youtube.com/watch?v=lKSkkm2seTg' | noembed }}
+![](/assets/polygon_select_icon.png)
+
+Try creating different spatial selections such as squares, abnormal polygons, or radius-based selections. Once you're finished, you should see something like the following selection of crashes surrounding the five-leg intersection below.
+
+![](/assets/polygon_select.png)
 
 ### Save and Share a Query
 
