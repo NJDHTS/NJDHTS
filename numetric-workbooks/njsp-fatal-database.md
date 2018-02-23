@@ -19,7 +19,7 @@ The underlying data and design of the NJSP Fata Crash Database workbooks, as wel
 
 ## [NJSP Fatal Crashes](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0)
 
-The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook uses the NJSP Fatal Crashes table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **crashes** where a fatality occurred. Some examples of questions that could be answered using the** **[**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook are the following:
+The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook uses the NJSP Fatal Crashes table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **crashes** where a fatality occurred. Some examples of questions that could be answered using the[**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook are the following:
 
 > How many fatal **crashes** occurred in New Jersey in 2012-2016?
 >
@@ -27,7 +27,7 @@ The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9be
 >
 > How many fatal **crashes** occurred where alcohol or drug use was involved on Interstate 297?
 
-Bear in mind that the** **[**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
+Bear in mind that the[**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 \# of crashes where a crash attribute was applicable \(eg. municipality, year, time of day, route\)
 
@@ -43,7 +43,7 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 
 > How many **pedestrians** were killed who had a BAC test result of 0.05 or greater?
 >
-> What months are **bicyclists **most often killed in shore counties versus non-shore counties?
+> What months are **bicyclists** most often killed in shore counties versus non-shore counties?
 >
 > How many **drivers** aged 65 or over were involved in fatal crashes? How many of them were killed? How many survived?
 
@@ -65,7 +65,7 @@ The [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21
 >
 > How many **Box Trucks** were involved in crashes were Alcohol Use was a contributing factor?
 
-Bear in mind that the[** NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129) workbook is joined to the Vehicle level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
+Bear in mind that the [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129) workbook is joined to the Vehicle level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 \# of vehicles involved in crashes
 
@@ -75,5 +75,5 @@ Bear in mind that the[** NJSP Fatal Vehicles**](https://cloud.numetric.com/workb
 
 ## Filterable Attributes
 
-A list of attributes that can be used to filter the crash data presented in the _NJSP_ Fatal Crash Database Advanced Numetric Workbooks will be added soon to this tutorial. It will include brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values. In the interim, feel free to filter by clicking on the interactive charts and graphs as described in the** **[**Querying Crashes **](../chapter1/filtering-crashes.md)tutorial, or use the [**Searchable Terms - Roads**](../chapter1/searchable-terms.md) dictionary as a guiding template for your filter in the top query bar.
+A list of attributes that can be used to filter the crash data presented in the _NJSP_ Fatal Crash Database Advanced Numetric Workbooks will be added soon to this tutorial. It will include brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values. In the interim, feel free to filter by clicking on the interactive charts and graphs as described in the [**Querying Crashes **](../chapter1/filtering-crashes.md) tutorial, or use the [**Searchable Terms - Roads**](../chapter1/searchable-terms.md) dictionary as a guiding template for your filter in the top query bar.
 
