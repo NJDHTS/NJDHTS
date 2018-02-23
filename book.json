@@ -5,7 +5,7 @@
     		"download-pdf-link": {
       		"base": "https://www.gitbook.com/book/nhdhts/catdocs/details/",
       		"label": {
-          		"en": "Download PDF"
+          		"Download PDF"
     			}
 		}
 	},
