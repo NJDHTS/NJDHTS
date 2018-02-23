@@ -38,7 +38,7 @@ Now let's further filter to just the municipality we're interested in, in this c
 
 ![](/assets/click_municipality.gif)
 
-We have now filtered the data down to just over 300 pedestrian involved crashes in New Brunswick from 2012-2016. You could continue to explore the data in the Crash Analysis Tool, or check out the [Exporting Data ](/exporting-data.md)page to learn to export for further analysis.
+We have now filtered the data down to just over 300 pedestrian involved crashes in New Brunswick from 2012-2016. You could continue to explore the data in the Crash Analysis Tool, or check out the [Exporting Data](/exporting-data.md) page to learn to export for further analysis.
 
 #### Filter Bar
 
