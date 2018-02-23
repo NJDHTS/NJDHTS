@@ -10,10 +10,10 @@ To access the NJSP Fatal Crash Database, enter the [**Numetric Workbooks**](http
 Once inside, select one of the three NJSP Fatal Crash Database workbooks based on your table of primary interest:
 
 * To count fatal crashes, select the [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook. 
-* To count people involved in crashes \(including fatality counts\), click the [**NJSP Fatal People Involved **](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee)workbook. 
-* To count vehicles involved, click on the [**NJSP Fatal Vehicles **](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129)workbook. 
+* To count people involved in crashes \(including fatality counts\), click the [**NJSP Fatal People Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook. 
+* To count vehicles involved, click on the [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129) workbook. 
 
-The mechanics of querying and exporting data from the NJSP Fatal Crash Database are the same as for all other CAT modules. See the [**Querying Crashes **](/chapter1/filtering-crashes.md)and [**Exporting Data**](/chapter1/exporting-data.md) pages for further information about those features.
+The mechanics of querying and exporting data from the NJSP Fatal Crash Database are the same as for all other CAT modules. See the [**Querying Crashes**](../chapter1/filtering-crashes.md) and [**Exporting Data**](../chapter1/exporting-data.md) pages for further information about those features.
 
 The underlying data and design of the NJSP Fata Crash Database workbooks, as well as a list of searchable terms in the NJSP Fatal Crash Database, are different from the other workbooks and the Roads module. Below are details about the underlying data in the NJSP Fatal Crash Database and examples of questions and outputs from the workbooks.
 
@@ -75,5 +75,5 @@ Bear in mind that the[** NJSP Fatal Vehicles**](https://cloud.numetric.com/workb
 
 ## Filterable Attributes
 
-A list of attributes that can be used to filter the crash data presented in the _NJSP_ Fatal Crash Database Advanced Numetric Workbooks will be added soon to this tutorial. It will include brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values. In the interim, feel free to filter by clicking on the interactive charts and graphs as described in the** **[**Querying Crashes **](/chapter1/filtering-crashes.md)tutorial, or use the [**Searchable Terms - Roads**](/chapter1/searchable-terms.md) dictionary as a guiding template for your filter in the top query bar.
+A list of attributes that can be used to filter the crash data presented in the _NJSP_ Fatal Crash Database Advanced Numetric Workbooks will be added soon to this tutorial. It will include brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values. In the interim, feel free to filter by clicking on the interactive charts and graphs as described in the** **[**Querying Crashes **](../chapter1/filtering-crashes.md)tutorial, or use the [**Searchable Terms - Roads**](../chapter1/searchable-terms.md) dictionary as a guiding template for your filter in the top query bar.
 
