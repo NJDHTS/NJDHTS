@@ -4,7 +4,7 @@ To export data from the CAT as a .csv file \(for use in excel, Google MyMaps, Ar
 
 ## 1. Query the Data
 
-Ensure you have the data filtered to only what is relevant for your project. For further help on how to filter data, follow the [**Querying Crashes**](/chapter1/filtering-crashes.md)** **tutorial.
+Ensure you have the data filtered to only what is relevant for your project. For further help on how to filter data, follow the [**Querying Crashes**](/filtering-crashes.md) tutorial.
 
 ## 2. Prepare the Columns
 
