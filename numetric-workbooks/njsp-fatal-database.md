@@ -56,13 +56,13 @@ Bear in mind that the [**NJSP Fatal Involved**](https://cloud.numetric.com/workb
 
 >* Number of people involved in crashes where a crash attribute was applicable \(eg. municipality, year, route\)
 >* Number of people involved in crashes who fit a given set of person involved attributes \(eg. age, person type, BAC range\)
->* Number of people involved in crashes where some vehicle was also involved with a particlar vehicle attribute \(eg. vehicle type\) \
+>* Number of people involved in crashes where some vehicle was also involved with a particlar vehicle attribute \(eg. vehicle type\)
 
 <!-- -->
 >**danger**
 >NOTE: This count reflects all people who were involved in a crash where selected vehicle attributes were involved, NOT a count of people who had that particular vehicle attribute for their own vehicle. 
 
->For example you could produce a count of pedestrians killed in crashes with a box truck, or the number of drunk drivers involved in crashes where a box truck was also involved \(but NOT the number of drunk drivers who were driving box trucks\).
+>* For example you could produce a count of pedestrians killed in crashes with a box truck, or the number of drunk drivers involved in crashes where a box truck was also involved \(but NOT the number of drunk drivers who were driving box trucks\).
 
 ## [NJSP Fatal Vehicles](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129)
 
@@ -86,7 +86,7 @@ The [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21
 >**danger** 
 >NOTE: This count reflects all vehicles that were involvd in a crash where a selected person involved attribute was also involved, not a count of vehicles where a person with that attribute was necessarily the driver. 
 
->For example, you could produce a count of box trucks involved in fatal crashes where any driver contributed alcohol or drug involvement to the crash, but NOT a count of box trucks where the driver was drunk\.
+>* For example, you could produce a count of box trucks involved in fatal crashes where any driver contributed alcohol or drug involvement to the crash, but NOT a count of box trucks where the driver was drunk\.
 
 ## Filterable Attributes
 
