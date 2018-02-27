@@ -1,5 +1,8 @@
 # New Jersey State Police Fatal Crash Database
 
+>**info**
+>This section of the CAT is currently in beta. Please read the tips in this document carefully to understand its use. Please [send us](mailto:thomas.hillman@rutgers.edu) your feedback if you would like to guide its development.
+
 To access the NJSP Fatal Crash Database, enter the [**Numetric Workbooks**](https://cloud.numetric.com/workbooks#/) module as follows:
 
 1. Hover your mouse over the Numetric logo on the top left corner of the screen
@@ -27,13 +30,13 @@ The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9be
 >
 > How many fatal **crashes** occurred where alcohol or drug use was involved on Interstate 297?
 
-Bear in mind that the [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
+<!-- -->
+>**tip**
+>Bear in mind that the [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
-\# of crashes where a crash attribute was applicable \(eg. municipality, year, time of day, route\)
-
-\# of crashes where anyone was involved with a particular person attribute \(eg. BAC level range, age, person type\)
-
-\# of crashes where any vehicle was involved with a particular vehicle attribute \(eg. vehicle type\)
+>* Number of crashes where a crash attribute was applicable \(eg. municipality, year, time of day, route\)
+>* Number of crashes where anyone was involved with a particular person attribute \(eg. BAC level range, age, person type\)
+>* Number of crashes where any vehicle was involved with a particular vehicle attribute \(eg. vehicle type\)
 
 ## [NJSP Fatal Involved](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee)
 
@@ -47,13 +50,19 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 >
 > How many **drivers** aged 65 or over were involved in fatal crashes? How many of them were killed? How many survived?
 
+<!-- -->
+>**tip**
 Bear in mind that the [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook is joined to the \(people\) Involved level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
-\# of people involved in crashes where a crash attribute was applicable \(eg. municipality, year, route\)
+>* Number of people involved in crashes where a crash attribute was applicable \(eg. municipality, year, route\)
+>* Number of people involved in crashes who fit a given set of person involved attributes \(eg. age, person type, BAC range\)
+>* Number of people involved in crashes where some vehicle was also involved with a particlar vehicle attribute \(eg. vehicle type\) \
 
-\# of people involved in crashes who fit a given set of person involved attributes \(eg. age, person type, BAC range\)
+<!-- -->
+>**caution**
+NOTE: his count reflects all people who were involved in a crash where selected vehicle attributes were involved, NOT a count of people who had that particular vehicle attribute for their own vehicle. 
 
-\# of people involved in crashes where some vehicle was also involved with a particlar vehicle attribute \(eg. vehicle type\) \(WARNING: this count reflects all people who were involved in a crash where selected vehicle attributes were involved, not a count of people who had that particular vehicle attribute for their own vehicle. For example you could produce, a count of pedestrians killed in crashes with a box truck, or the number of drunk drivers involved in crashes where a box truck was also involved \(but NOT the number of drunk drivers who were driving box trucks\).
+For example you could produce a count of pedestrians killed in crashes with a box truck, or the number of drunk drivers involved in crashes where a box truck was also involved \(but NOT the number of drunk drivers who were driving box trucks\).
 
 ## [NJSP Fatal Vehicles](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129)
 
@@ -65,6 +74,8 @@ The [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21
 >
 > How many **Box Trucks** were involved in crashes were Alcohol Use was a contributing factor?
 
+<!-- -->
+>**tip**
 Bear in mind that the [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129) workbook is joined to the Vehicle level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 \# of vehicles involved in crashes
