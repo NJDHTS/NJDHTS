@@ -32,7 +32,7 @@ The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9be
 
 <!-- -->
 >**tip**
->Bear in mind that the [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
+>The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook presents data joined to the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 >* Number of crashes where a crash attribute was applicable \(eg. municipality, year, time of day, route\)
 >* Number of crashes where anyone was involved with a particular person attribute \(eg. BAC level range, age, person type\)
@@ -52,7 +52,7 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 
 <!-- -->
 >**tip**
-Bear in mind that the [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook is joined to the \(people\) Involved level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
+The [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook is joined to the \(people\) Involved level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 >* Number of people involved in crashes where a crash attribute was applicable \(eg. municipality, year, route\)
 >* Number of people involved in crashes who fit a given set of person involved attributes \(eg. age, person type, BAC range\)
@@ -76,7 +76,7 @@ The [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21
 
 <!-- -->
 >**tip**
->Bear in mind that the [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129) workbook is joined to the Vehicle level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
+>The [**NJSP Fatal Vehicles**](https://cloud.numetric.com/workbooks#/report2/7f21e70e-f9de-4b25-934e-06e6908fe129) workbook is joined to the Vehicle level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
 >* Number of vehicles involved in crashes
 >* Number of vehicles involved in crashes where a particular crash attribute was applicable
