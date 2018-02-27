@@ -36,7 +36,7 @@ The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44
 
 <!-- -->
 > **tip**  
-> Bear in mind that the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook joins the crash table to the drivers table. As a result, counts and totals from this workbook will be structured as follows:
+> The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook joins the crash table to the drivers table. As a result, counts and totals from this workbook will be structured as follows:
 >
 > * Number of **drivers** in crashes with a particular crash attribute (eg. municipality, year, time of day, route\)
 > * Number of **drivers** with a particular driver attribute (eg. BAC level range, age, driver contributing circumstances\)
@@ -56,7 +56,7 @@ The **Pedestrians and Bicyclists** workbook uses the New Jersey Statewide Crash 
 
 <!-- -->
 > **tip**   
-> Bear in mind that the **Pedestrians and Bicyclists ** workbook joins the crash table to the pedestrian and bicyclist table. As a result, counts and totals from this workbook will be structured as follows:
+> The **Pedestrians and Bicyclists ** workbook joins the crash table to the pedestrian and bicyclist table. As a result, counts and totals from this workbook will be structured as follows:
 >
 > * Number of **pedestrians and/or bicyclists** in crashes with a particular crash attribute \(eg. municipality, year, time of day, route\)
 > * Number of **pedestrians and/or bicyclists** with a particular pedestrian/bicyclist attribute \(eg. BAC level range, age, pedestrian/bicyclist contributing circumstances\)
@@ -76,7 +76,7 @@ The **Occupants** workbook uses the New Jersey Statewide Crash Database Occupant
 
 <!-- -->
 >**tip**
->Bear in mind that the **Occupants** workbook joins the crash table to the occupants table. As a result, counts and totals from this workbook will be structured as follows:
+>The **Occupants** workbook joins the crash table to the occupants table. As a result, counts and totals from this workbook will be structured as follows:
 >
 >* Number of **occupants** in crashes with a particular crash attribute \(eg. municipality, year, time of day, route\)
 >* Number of **occupants** with a particular occupant attribute \(eg. seating position, restraint use, age, sex\)
@@ -96,7 +96,7 @@ The **Vehicles** workbook uses the New Jersey Statewide Crash Database Vehicles 
 
 <!-- -->
 >**tip**
->Bear in mind that the **Vehicles** workbook joins the crash table to the vehicles table. As a result, counts and totals from this workbook will be structured as follows:
+>The **Vehicles** workbook joins the crash table to the vehicles table. As a result, counts and totals from this workbook will be structured as follows:
 >
 >* Number of **vehicles** in crashes with a particular crash attribute \(eg. municipality, year, time of day, route\)
 >* Number of **vehicles** with a particular vehicle attribute \(eg. vehicle type, vehicle make, vehicle year, special function vehicle\)
