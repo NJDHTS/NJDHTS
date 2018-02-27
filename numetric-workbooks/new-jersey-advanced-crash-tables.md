@@ -40,8 +40,8 @@ The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44
 
 ## Pedestrians and Bicyclists
 
-> **info**  
-> **Coming soon!**
+> **info**
+>**Coming soon!**
 
 The **Pedestrians and Bicyclists** workbook uses the New Jersey Statewide Crash Database Pedestrian and Bicyclist table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **pedestrians and/or bicyclists** involved in crashes. Some examples of questions that could be answered using the [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook are the following:
 
@@ -59,7 +59,7 @@ The **Pedestrians and Bicyclists** workbook uses the New Jersey Statewide Crash 
 
 ## Occupants
 
-> **info**  
+> **info**
 > **Coming soon!**
 
 The **Occupants** workbook uses the New Jersey Statewide Crash Database Occupants table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **occupants** involved in crashes. Some examples of questions that could be answered using the **Occupants** workbook are the following:
@@ -78,7 +78,7 @@ The **Occupants** workbook uses the New Jersey Statewide Crash Database Occupant
 
 ## Vehicles
 
-> **info**  
+> **info**
 > **Coming soon!**
 
 The **Vehicles** workbook uses the New Jersey Statewide Crash Database Vehicles table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **vehicles **involved in crashes. Some examples of questions that could be answered using the **Vehicles** workbook are the following:
