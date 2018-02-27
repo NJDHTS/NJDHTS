@@ -8,7 +8,7 @@ Below is a list of attributes that can be used to filter the crash data presente
 >
 > * If you're looking for guidance on the mechanics of querying crashes, check out the [**Querying Crashes**](../chapter1/filtering-crashes.md) tutorial first before returning to this list.
 >
-> * If you need more in-depth information for any crash data element beyond the brief sumaries contained here, consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf).
+> * If you need more in-depth information for any crash data element, consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf).
 
 ## Searchable Terms
 
