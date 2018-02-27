@@ -36,7 +36,7 @@ The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44
 
 <!-- -->
 > **tip**  
-> Bear in mind that the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook joins the crash table to the pedestrian and driver table. As a result, counts and totals from this workbook will be structured as follows:
+> Bear in mind that the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook joins the crash table to the drivers table. As a result, counts and totals from this workbook will be structured as follows:
 >
 > Number of **drivers** in crashes with a particular crash attribute
 >
@@ -103,7 +103,7 @@ The **Vehicles** workbook uses the New Jersey Statewide Crash Database Vehicles 
 
 <!-- -->
 >**tip**
-Bear in mind that the **Vehicles** workbook joins the crash table to the occupants table. As a result, counts and totals from this workbook will be structured as follows:
+Bear in mind that the **Vehicles** workbook joins the crash table to the vehicles table. As a result, counts and totals from this workbook will be structured as follows:
 
 >Number of **vehicles** in crashes with a particular crash attribute \(eg. municipality, year, time of day, route\)
 
