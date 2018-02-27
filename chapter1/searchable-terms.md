@@ -4,9 +4,10 @@ In order to find the data you're looking for in the CAT you'll need to know how 
 
 Below is a list of attributes that can be used to filter the crash data presented in the [**Roads Module**](https://njdhts.numetric.com/roads/crash-query#/)** **Included are brief descriptions of each attribute, how it was collected \(if applicable\), and a comprehensive list of all variable values.
 
-##### If you're looking for guidance on the mechanics of querying crashes, check out the [**Querying Crashes**](../chapter1/filtering-crashes.md) tutorial first before returning to this list.
+>**info** 
+>* If you're looking for guidance on the mechanics of querying crashes, check out the [**Querying Crashes**](../chapter1/filtering-crashes.md) tutorial first before returning to this list.
 
-##### If you need more information for a crash data element, consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf), which contains comprehensive definitions for each crash data element.
+>* If you need more information for a crash data element, consult the [**NJTR-1 Crash Report Manual**](http://www.state.nj.us/transportation/refdata/accident/pdf/NJTR-1CrashReportManual12517.pdf), which contains comprehensive definitions for each crash data element.
 
 ## Searchable Terms
 
