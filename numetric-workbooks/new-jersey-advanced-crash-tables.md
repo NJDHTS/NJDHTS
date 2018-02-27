@@ -11,7 +11,7 @@ To access the full New Jersey Statewide Crash Database for advanced querying, en
 
 Once inside, select one of the four New Jersey Statewide Crash Database workbooks based on your table of primary interest:
 
-* To count drivers, select the[**Drivers**](https://cloud.numetric.com/workbooks#/report2/0c8fa685-88d0-48d1-8355-36653e2bf64d) workbook.
+* To count drivers, select the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/0c8fa685-88d0-48d1-8355-36653e2bf64d) workbook.
 * To count pedestrians and bicyclists, select the [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook.
 * To count occupants \(including the driver\), click the [**Occupants**](https://cloud.numetric.com/workbooks#/report2/858d5c38-9959-4bc5-bdcd-905f342f85dd) workbook. 
 * To count vehicles, click on the [**Vehicles**](https://cloud.numetric.com/workbooks#/report2/66b8b15e-f226-42ff-bcbc-550ab1b661db) workbook. 
@@ -43,7 +43,7 @@ The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44
 > **info**
 >**Coming soon!**
 
-The **Pedestrians and Bicyclists** workbook uses the New Jersey Statewide Crash Database Pedestrian and Bicyclist table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **pedestrians and/or bicyclists** involved in crashes. Some examples of questions that could be answered using the [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook are the following:
+The **Pedestrians and Bicyclists** workbook uses the New Jersey Statewide Crash Database Pedestrian and Bicyclist table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **pedestrians and/or bicyclists** involved in crashes. Some examples of questions that could be answered using the **Pedestrians and Bicyclists** workbook are the following:
 
 > Of the **bicyclists **involved in crashes, how many were under the influence of alcohol or drugs?
 >

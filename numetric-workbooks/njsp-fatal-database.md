@@ -22,7 +22,7 @@ The underlying data and design of the NJSP Fata Crash Database workbooks, as wel
 
 ## [NJSP Fatal Crashes](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0)
 
-The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook uses the NJSP Fatal Crashes table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **crashes** where a fatality occurred. Some examples of questions that could be answered using the[**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook are the following:
+The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook uses the NJSP Fatal Crashes table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **crashes** where a fatality occurred. Some examples of questions that could be answered using the [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9beed9-77ec-4605-a899-4e26a086bde0) workbook are the following:
 
 > How many fatal **crashes** occurred in New Jersey in 2012-2016?
 >
