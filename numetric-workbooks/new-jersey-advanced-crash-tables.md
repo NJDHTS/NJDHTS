@@ -1,7 +1,7 @@
 # NJ Statewide Crash Database
 
->**info**
->This section of the CAT is still under development. For a sneak peak, check out the beta version of the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) table \(documentation on how to use it is below\). Futher updates will be sent to users via email.
+> **info**  
+> This section of the CAT is still under development. For a sneak peak, check out the beta version of the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) table \(documentation on how to use it is below\). Futher updates will be sent to users via email.
 
 To access the full New Jersey Statewide Crash Database for advanced querying, enter the [**Numetric Workbooks**](https://cloud.numetric.com/workbooks#/) module as follows:
 
@@ -23,8 +23,8 @@ The underlying data and design of the New Jersey Statewide Crash Database workbo
 
 ## [Drivers](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8)
 
->**tip**
->The Drivers table is still in beta version. Please [send us](mailto:thomas.hillman@rutgers.edu) your feedback if you would like to guide its development.
+> **tip**  
+> The Drivers table is still in beta version. Please [send us](mailto:thomas.hillman@rutgers.edu) your feedback if you would like to guide its development.
 
 The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook uses the New Jersey Statewide Crash Database Driver table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **drivers** involved in crashes. Some examples of questions that could be answered using the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook are the following:
 
@@ -34,40 +34,38 @@ The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44
 >
 > What percentage of seriously injured **drivers **crashed at an intersection versus a non-intersection?
 
-Test
+![](/assets/Transparent.gif)
 
->**tip**
->Bear in mind that the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook joins >the crash table to the pedestrian and driver table. As a result, counts and totals from this workbook will be structured as follows:
+> **tip**  
+> Bear in mind that the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook joins &gt;the crash table to the pedestrian and driver table. As a result, counts and totals from this workbook will be structured as follows:
 >
->\# of **drivers** in crashes with a particular crash attribute \(eg. municipality, year, time of day, route\)
+> \# of **drivers** in crashes with a particular crash attribute \(eg. municipality, year, time of day, route\)
 >
->\# of **drivers** with a particular driver attribute \(eg. BAC level range, age, driver contributing circumstances\)
+> \# of **drivers** with a particular driver attribute \(eg. BAC level range, age, driver contributing circumstances\)
 
 ## Pedestrians and Bicyclists
 
->**info**
+> **info**  
 > **Coming soon!**
 
 The **Pedestrians and Bicyclists** workbook uses the New Jersey Statewide Crash Database Pedestrian and Bicyclist table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **pedestrians and/or bicyclists** involved in crashes. Some examples of questions that could be answered using the [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook are the following:
 
 > Of the **bicyclists **involved in crashes, how many were under the influence of alcohol or drugs?
-
+>
 > Are **pedestrians **under 18 or over 65 involved in a high percentage of crashes in my municipality?
-
+>
 > What percentage of seriously injured **pedestrians **had their crash at an intersection versus a non-intersection?
-
->**tip** 
->Bear in mind that the **Pedestrians and Bicyclists ** workbook joins the crash table to the pedestrian and bicyclist table. As a >result, counts and totals from this workbook will be structured as follows:
 >
->\# of **pedestrians and/or bicyclists** in crashes with a particular crash attribute \(eg. municipality, year, time of day, route\)
+> **tip**   
+> Bear in mind that the **Pedestrians and Bicyclists ** workbook joins the crash table to the pedestrian and bicyclist table. As a &gt;result, counts and totals from this workbook will be structured as follows:
 >
->\# of** pedestrians and/or bicyclists** with a particular pedestrian/bicyclist attribute \(eg. BAC level range, age, >pedestrian/bicyclist contributing circumstances\)
-
-
+> \# of **pedestrians and/or bicyclists** in crashes with a particular crash attribute \(eg. municipality, year, time of day, route\)
+>
+> \# of** pedestrians and/or bicyclists** with a particular pedestrian/bicyclist attribute \(eg. BAC level range, age, &gt;pedestrian/bicyclist contributing circumstances\)
 
 ## Occupants
 
->**info**
+> **info**  
 > **Coming soon!**
 
 The **Occupants** workbook uses the New Jersey Statewide Crash Database Occupants table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **occupants** involved in crashes. Some examples of questions that could be answered using the **Occupants** workbook are the following:
@@ -86,7 +84,7 @@ Bear in mind that the **Occupants** workbook joins the crash table to the occupa
 
 ## Vehicles
 
->**info**
+> **info**  
 > **Coming soon!**
 
 The **Vehicles** workbook uses the New Jersey Statewide Crash Database Vehicles table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **vehicles **involved in crashes. Some examples of questions that could be answered using the **Vehicles** workbook are the following:
