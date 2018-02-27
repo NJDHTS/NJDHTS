@@ -1,5 +1,8 @@
 # Numetric Workbooks Module \(Advanced\)
 
+>**info**
+>This section of the Crash Analysis Tool is still under development. Feel free to test the beta of the NJ State Police Fatal Crash Database to access the most accurate New Jersey fatal crash statistics available. Stay tuned for updates, which will be sent to CAT users via email.
+
 ## NJ Statewide Crash Database
 
 To query basic information about the crash event, for example where crashes occurred, how severe they were, and basic safety emphasis areas, refer to the [Quick Start Guide](/chapter1.md) to the Roads module.
