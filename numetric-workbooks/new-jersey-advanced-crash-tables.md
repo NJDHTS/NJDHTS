@@ -38,13 +38,8 @@ The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44
 > **tip**  
 > Bear in mind that the [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook joins the crash table to the drivers table. As a result, counts and totals from this workbook will be structured as follows:
 >
-> * Number of **drivers** in crashes with a particular crash attribute
->
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\(eg. municipality, year, time of day, route\)
->
-> * Number of **drivers** with a particular driver attribute
->
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\(eg. BAC level range, age, driver contributing circumstances\)
+> * Number of **drivers** in crashes with a particular crash attribute (eg. municipality, year, time of day, route\)
+> * Number of **drivers** with a particular driver attribute (eg. BAC level range, age, driver contributing circumstances\)
 
 ## Pedestrians and Bicyclists
 
