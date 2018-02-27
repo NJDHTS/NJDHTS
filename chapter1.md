@@ -26,7 +26,7 @@ To learn how to use the CAT to make a SRTS map, check out the [**Safe Routes to 
 
 ## Numetric Workbooks - Advanced
 >**info**
->This section of the Crash Analysis Tool is still under development. Stay tuned for updates, which will be sent to CAT users via email.
+>This section of the Crash Analysis Tool is still under development. Stay tuned for updates.
 
 
 ###### For more advanced querying options, check out the [Numetric Workbooks \(Advanced\) ](/numetric-workbooks.md)guide. Advanced querying allows users to answer questions like the following:
