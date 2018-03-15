@@ -52,7 +52,7 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 
 causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
 <!-- -->
->**info**
+>**danger**
 >NOTE: This workbook includes information for all people killed, as well as all drivers, deaths after 30 days, and deaths from natural causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
 
 <!-- -->
@@ -67,8 +67,8 @@ The [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c
 <!-- -->
 
 ## NJSP Fatal Vehicles
->**info**
->Coming Soon!
+>**info** Coming Soon!
+
 The **NJSP Fatal Vehicles** workbook uses the Vehicle table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **vehicles** that were involved in fatal crashes. Some examples of questions that could be answered using the **NJSP Fatal Vehicles** workbook are the following:
 
 > How many **pick-up trucks** were involved in fatal crashes in New Jersey in 2012-2016?
