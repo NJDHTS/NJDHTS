@@ -2,7 +2,7 @@
 
 ## Roads Module Crash Querying
 
-[**Roads **](https://njdhts.numetric.com/roads/crash-query#/)is the default module that loads automatically when you log in to the CAT. Beginner users should stick to this Roads module for quick and intuitive crash data querying and analysis. Data in this module is all aggregated at the crash level, so it can answer questions such as the following.
+[**Roads**](https://njdhts.numetric.com/roads/crash-query#/) is the default module that loads automatically when you log in to the CAT. Beginner users should stick to this Roads module for quick and intuitive crash data querying and analysis. Data in this module is all aggregated at the crash level, so it can answer questions such as the following.
 
 > When and where did the **crash** occur?
 >
@@ -14,7 +14,7 @@
 
 [![](/assets/roads_landing_page_675x345.png)](/chapter1/filtering-crashes.md)
 
-To get started quickly with basic crash analysis in Roads, proceed to the [**Querying Crashes**](/chapter1/filtering-crashes.md)** **page.
+To get started quickly with basic crash analysis in Roads, proceed to the [**Querying Crashes**](/chapter1/filtering-crashes.md)page.
 
 ## Safe Routes to School Tutorial
 
