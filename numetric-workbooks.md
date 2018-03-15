@@ -1,6 +1,6 @@
 # Numetric Workbooks Module \(Advanced\)
 
->**info** This section of the Crash Analysis Tool is still under development. Feel free to test the beta of the NJ State Police Fatal Crash Database to access the most accurate New Jersey fatal crash statistics available. Stay tuned for updates, which will be sent to CAT users via email.
+>**info** This section of the Crash Analysis Tool is new!
 
 ## NJ Statewide Crash Database
 
@@ -17,8 +17,8 @@ Examples of queries that could be answered with the basic Roads module versus th
 
 | Roads | Numetric Workbooks \(Advanced\) |
 | :--- | :--- |
-| How many crashes in my county were involved pedestrians? | What percentage of those pedestrians were under the influence of alcohol? What was their BAC level? |
-| How many younger drivers were involved in crashes in my municipality? | How many of those young drivers were also drowsy or intoxicated at the time of the crash? |
+| How many crashes in my county involved pedestrians? | What percentage of those pedestrians were suspected under the influence of alcohol?|
+| How many younger drivers were involved in crashes in my municipality? | Are young drivers of different ages more likely to be involved in fatal crashes? How many of those young drivers in fatal crashes were drowsy or drunk? |
 
 For more information on advanced querying of the NJ Statewide Crash Database, follow the [NJ Statewide Crash Database](/numetric-workbooks/new-jersey-advanced-crash-tables.md) tutorial.
 
