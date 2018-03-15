@@ -25,7 +25,7 @@ Safe Routes to School Travel Plans help municipalities interested in improving s
 To learn how to use the CAT to make a SRTS map, check out the [**Safe Routes to School**](/safe-routes-to-school.md) page.
 
 ## Numetric Workbooks - Advanced
-> **info** New module! [Let us know](mailto:thomas.hillman@rutgers.edu) what you think!!
+> **info** Advanced workbooks is a new module. If you have any feedback or questions on its use, [email us](mailto:thomas.hillman@rutgers.edu)!
 
 ###### For more advanced querying options, check out the [Numetric Workbooks \(Advanced\) ](/numetric-workbooks.md)guide. Advanced querying allows users to answer questions like the following:
 
