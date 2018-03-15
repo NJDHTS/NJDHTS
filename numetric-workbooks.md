@@ -18,7 +18,7 @@ Examples of queries that could be answered with the basic Roads module versus th
 | Roads | Numetric Workbooks \(Advanced\) |
 | :--- | :--- |
 | How many crashes in my county involved pedestrians? | What percentage of those pedestrians were suspected under the influence of alcohol?|
-| How many younger drivers were involved in crashes in my municipality? | Are young drivers of different ages more likely to be involved in fatal crashes? How many of those young drivers in fatal crashes were drowsy or drunk? |
+| How many younger drivers were involved in crashes in my municipality? | Are young drivers of different ages more likely to be involved in fatal crashes? How many of those young drivers were drowsy or drunk? |
 
 For more information on advanced querying of the NJ Statewide Crash Database, follow the [NJ Statewide Crash Database](/numetric-workbooks/new-jersey-advanced-crash-tables.md) tutorial.
 
