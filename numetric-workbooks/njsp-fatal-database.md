@@ -40,9 +40,6 @@ The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9be
 
 ## [NJSP Fatal Involved](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee)
 
->**danger**
->NOTE: This workbook includes information for all people killed, as well as all drivers, deaths after 30 days, and deaths from natural causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
-
 The [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook uses the People Involved table as a base table. All Drivers involved in fatal crashes in New Jersey since 2006 are included, whether they survived the crash or were deceased. **For non-drivers, only those who died as a result of the crash are included** \(eg. pedestrians, bicyclists, or occupants who survived the crash are not included, but deceased pedestrians, bicyclists, and occupants are included in the database\).
 
 All charts, graphs, tables, and totals reflect a count of **people** that were involved in fatal crashes. This count includes all drivers plus deceased pedestrians, bicyclists, and other \(non-driver\) vehicle occupants. Some examples of questions that could be answered using the [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook are the following:
@@ -53,6 +50,9 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 >
 > How many **drivers** aged 65 or over were involved in fatal crashes? How many of them were killed? How many survived?
 
+
+>**info**
+>NOTE: This workbook includes information for all people killed, as well as all drivers, deaths after 30 days, and deaths from natural causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
 <!-- -->
 >**tip**
 The [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook is joined to the \(people\) Involved level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
