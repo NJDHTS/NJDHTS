@@ -41,7 +41,7 @@ The [**NJSP Fatal Crashes**](https://cloud.numetric.com/workbooks#/report2/fa9be
 ## [NJSP Fatal Involved](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee)
 
 >**danger**
->NOTE: This workbook includes information for all people killed, as well as all drivers, deaths after 30 days, and deaths from natural causes. To query official "fatalitie" only, select "Accident" from the "Death Classification" filter on the top right. 
+>NOTE: This workbook includes information for all people killed, as well as all drivers, deaths after 30 days, and deaths from natural causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
 
 The [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook uses the People Involved table as a base table. All Drivers involved in fatal crashes in New Jersey since 2006 are included, whether they survived the crash or were deceased. **For non-drivers, only those who died as a result of the crash are included** \(eg. pedestrians, bicyclists, or occupants who survived the crash are not included, but deceased pedestrians, bicyclists, and occupants are included in the database\).
 
