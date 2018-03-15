@@ -23,7 +23,7 @@ The underlying data and design of the New Jersey Statewide Crash Database workbo
 
 ## [**Crashes**](https://cloud.numetric.com/workbooks#/report2/8347e243-e9c9-4966-89f8-6b7c8c4376bb)
 
-The [**Crashes**](https://cloud.numetric.com/workbooks#/report2/8347e243-e9c9-4966-89f8-6b7c8c4376bb) advanced workbook is very similar to the default Roads module. It uses the same New Jersey Statewide Crash Database Crash table as a base table. Some examples of questions that could be answered using the [**Crashes**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook are the following:
+The [**Crashes**](https://cloud.numetric.com/workbooks#/report2/8347e243-e9c9-4966-89f8-6b7c8c4376bb) advanced workbook is very similar to the default Roads module. It uses the same New Jersey Statewide Crash Database Crash table as a base table. Some examples of questions that could be answered using the [**Crashes**](https://cloud.numetric.com/workbooks#/report2/8347e243-e9c9-4966-89f8-6b7c8c4376bb) workbook are the following:
 
 > Of the **crashess** that occurred in my municipality, how many had a pedestrian over the age of 50 involved?
 >
@@ -34,8 +34,7 @@ The [**Crashes**](https://cloud.numetric.com/workbooks#/report2/8347e243-e9c9-49
 > What percentage of **crashes** where an improper lane change occurred resulted in a fatality?
 
 <!-- -->
->tip
->In the advanced [**Crashes**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44f0-9db1-52649f5369b8) workbook, all other tables (Drivers, Pededestrians and Bicyclists, Occupants, and Vehicles) are joined to the crash table to enable advanced querying.  As a result, all charts, graphs, tables, and totals reflect a count of **crashes** (unless otherwise specified in the chart title). As a result, counts and totals from this workbook will be structured as follows:
+>**tip** In the advanced [**Crashes**](https://cloud.numetric.com/workbooks#/report2/8347e243-e9c9-4966-89f8-6b7c8c4376bb) workbook, all other tables (Drivers, Pededestrians and Bicyclists, Occupants, and Vehicles) are joined to the crash table to enable advanced querying.  As a result, all charts, graphs, tables, and totals reflect a count of **crashes** (unless otherwise specified in the chart title). As a result, counts and totals from this workbook will be structured as follows:
 >
 > * Number of **crashes** in crashes with a particular crash attribute (eg. municipality, year, time of day, route\)
 > * Number of **crashes** with a particular driver/pedestrian or bicycle/occupant/vehicle attribute \(eg. BAC level, age, injury severity, contributing circumstances\)
@@ -59,7 +58,7 @@ The [**Drivers**](https://cloud.numetric.com/workbooks#/report2/e282abec-0ae5-44
 ## [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f)
 
 > **info** 
->To count only Pedestrians, select "No" on the "Is Bicyclist Filter on the top right. To count only Bicyclists, select "Yes" on the Is Bicyclist filter on the top right. To count both pedestrians and biyclists, leave this filter unselected (default).
+>To count only Pedestrians, select "No" on the "Is Bicyclist" Filter on the top right. To count only Bicyclists, select "Yes" on the "Is Bicyclist" filter on the top right. To count both pedestrians and biyclists, leave this filter unselected (default).
 
 The [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook uses the New Jersey Statewide Crash Database Pedestrian and Bicyclist table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **pedestrians and/or bicyclists** involved in crashes. Some examples of questions that could be answered using the [**Pedestrians and Bicyclists**](https://cloud.numetric.com/workbooks#/report2/fd57b9e7-3b55-42bc-98b3-2a3547c9f55f) workbook are the following:
 
