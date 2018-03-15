@@ -50,9 +50,11 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 >
 > How many **drivers** aged 65 or over were involved in fatal crashes? How many of them were killed? How many survived?
 
-
+causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
+<!-- -->
 >**info**
 >NOTE: This workbook includes information for all people killed, as well as all drivers, deaths after 30 days, and deaths from natural causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
+
 <!-- -->
 >**tip**
 The [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook is joined to the \(people\) Involved level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
