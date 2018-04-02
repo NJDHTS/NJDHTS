@@ -1,7 +1,7 @@
 # New Jersey State Police Fatal Crash Database
 
 >**info**
->This section of the CAT is currently in beta. Please read the tips in this document carefully to understand its use. Please [send us](mailto:thomas.hillman@rutgers.edu) your feedback if you would like to guide its development.
+>New Jersey State Police provides the most accurate data available on fatal crashes in New Jersey. You can now access this data directly from the Crash Analysis Tool by following the guide below.
 
 To access the NJSP Fatal Crash Database, enter the [**Numetric Workbooks**](https://cloud.numetric.com/workbooks#/) module as follows:
 
@@ -52,22 +52,15 @@ All charts, graphs, tables, and totals reflect a count of **people** that were i
 
 causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
 <!-- -->
->**danger**
->NOTE: This workbook includes information for all people killed, as well as all drivers, deaths after 30 days, and deaths from natural causes. To query official "fatalities" only, select "Accident" from the "Death Classification" filter on the top right. 
-
-<!-- -->
 >**tip**
 The [**NJSP Fatal Involved**](https://cloud.numetric.com/workbooks#/report2/034c41ea-77da-47b8-a124-860e484e04ee) workbook is joined to the \(people\) Involved level via the crash table. As a result, counts and totals from this workbook will be structured as follows:
 
+>* Number of people involved in fatal crashes (all drivers plus deceased pedestrians, bicyclists, and other vehicle occupants)
 >* Number of people involved in crashes where a crash attribute was applicable \(eg. municipality, year, route\)
 >* Number of people involved in crashes who fit a given set of person involved attributes \(eg. age, person type, BAC range\)
->* Number of people killed in crashes where a crash attribute was applicable \(eg. municipality, year, route\)
->* Number of people killed in crashes who fit a given set of person involved attributes \(eg. age, person type, BAC range\)
-
 <!-- -->
 
 ## NJSP Fatal Vehicles
->**info** Coming Soon!
 
 The **NJSP Fatal Vehicles** workbook uses the Vehicle table as a base table. As a result, all charts, graphs, tables, and totals reflect a count of **vehicles** that were involved in fatal crashes. Some examples of questions that could be answered using the **NJSP Fatal Vehicles** workbook are the following:
 
